@@ -1,5 +1,5 @@
 # credit-card-risk-analysis
-Power BI dashboard analyzing credit card usage patterns and risk levels
+This Power BI dashboard helps us understand how people use their credit cards. It shows information about different types of customers, where they spend their money (like travel, groceries, or online shopping), and how risky their spending habits might be. The dashboard is interactive, which means you can click on filters and visuals to explore the data in different ways. It is useful for finding patterns in customer behavior, spotting high-risk users, and seeing how credit cards are used over time.
 ## 🔍Project Objective
 To uncover insights related to:
 - Customer spending habits
