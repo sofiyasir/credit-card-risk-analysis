@@ -1,0 +1,1001 @@
+Customer_ID,Transaction_Date,Transaction_Amount,Transaction_Type,Merchant_Category,Monthly_Income,Account_Balance,KYC_Status,Region,Risk_Level,Card_Type,Spending_Level,Gender,Age
+CUST3044,01-03-2025,9803.13,Credit,Groceries,59197,9446.38,Pending,South,Low,Silver,Moderate,Male,48
+CUST4914,27-02-2025,3554.14,Credit,Healthcare,32491,23133.49,Completed,East,Medium,Platinum,Moderate,Female,68
+CUST8955,11-04-2025,1622.8,Credit,Restaurants,196126,2074.16,Completed,East,Low,Platinum,Moderate,Female,26
+CUST9580,27-01-2025,6123.44,Credit,Groceries,194936,29935.4,Pending,North,Low,Silver,Low,Female,21
+CUST7545,03-09-2024,5978.86,Debit,Healthcare,89837,24130.94,Pending,North,Low,Gold,Low,Female,30
+CUST6754,27-04-2025,4386.78,Debit,Entertainment,67867,4978.16,Completed,West,Low,Silver,Low,Other,37
+CUST1671,12-06-2025,9062.07,Credit,Healthcare,58519,21744.22,Pending,North,Low,Gold,Moderate,Other,44
+CUST3555,23-07-2024,8010.76,Debit,Groceries,58365,2987.55,Completed,South,Low,Gold,Low,Male,60
+CUST5210,26-01-2025,1210.33,Debit,Healthcare,89980,5076.55,Not Started,West,Medium,Platinum,Low,Female,37
+CUST4233,26-03-2025,1330.78,Credit,Restaurants,157479,21934.92,Not Started,West,Low,Silver,Low,Female,23
+CUST8541,06-02-2025,609.92,Debit,Healthcare,29132,9510.89,Pending,South,Low,Gold,Low,Other,39
+CUST6952,06-04-2025,4776.64,Debit,Healthcare,67573,614.25,Completed,North,Medium,Gold,Moderate,Other,32
+CUST9317,31-01-2025,701.76,Debit,Entertainment,160261,16498.8,Completed,West,Low,Platinum,Moderate,Other,64
+CUST3694,29-07-2024,9082.86,Debit,Online Shopping,56523,15027.54,Completed,West,Low,Gold,Low,Other,25
+CUST9273,03-11-2024,7877.12,Credit,Travel,92452,13615.55,Pending,South,Low,Silver,Low,Other,33
+CUST8181,26-08-2024,1058.36,Credit,Bills,76685,25625.39,Completed,East,Low,Gold,Moderate,Male,45
+CUST1453,19-03-2025,1812.39,Debit,Online Shopping,125539,1387.12,Completed,East,Low,Platinum,High,Female,41
+CUST9364,28-06-2025,4590.29,Debit,Bills,199182,29240.71,Completed,South,Low,Gold,Low,Female,45
+CUST9195,21-03-2025,5107.36,Credit,Restaurants,179589,20894.01,Completed,North,Low,Gold,Moderate,Female,55
+CUST3964,27-12-2024,637.96,Credit,Healthcare,184936,18610.62,Completed,East,Low,Platinum,Moderate,Other,20
+CUST2098,09-08-2024,840,Credit,Online Shopping,173238,28240.23,Completed,North,Low,Silver,Low,Other,69
+CUST5042,16-05-2025,6486.7,Credit,Entertainment,123208,14162.8,Pending,South,Low,Gold,Low,Male,39
+CUST9702,23-08-2024,9538.21,Credit,Bills,71175,22334.31,Not Started,East,Low,Gold,High,Other,69
+CUST3073,04-06-2025,8661.23,Debit,Bills,87000,10256.71,Pending,West,Low,Gold,Low,Male,68
+CUST8945,05-07-2025,390.61,Debit,Groceries,116784,14896.12,Not Started,South,Low,Platinum,Moderate,Female,24
+CUST1841,21-05-2025,1754.45,Debit,Restaurants,160018,15835.11,Completed,West,Medium,Gold,Moderate,Female,46
+CUST2977,05-02-2025,2776.54,Debit,Healthcare,79159,21367.71,Pending,East,Medium,Gold,High,Other,50
+CUST1394,06-11-2024,9995.94,Credit,Healthcare,178984,10515.59,Pending,South,Low,Gold,High,Other,52
+CUST8606,22-11-2024,9496.98,Debit,Online Shopping,70415,10418.51,Completed,North,Low,Silver,Low,Female,55
+CUST6694,01-10-2024,8950.95,Credit,Online Shopping,182414,19280.19,Completed,West,Low,Silver,Moderate,Other,30
+CUST1212,11-01-2025,1873.41,Debit,Entertainment,63217,710.47,Completed,South,Low,Gold,Low,Female,58
+CUST3521,18-02-2025,4497.96,Debit,Bills,144689,16065.54,Pending,East,Medium,Silver,Moderate,Other,45
+CUST5807,21-10-2024,1539.7,Credit,Groceries,62779,9124,Completed,East,Low,Gold,Low,Other,60
+CUST7701,28-10-2024,1680.43,Debit,Groceries,88330,8029.74,Pending,East,Low,Gold,Moderate,Other,22
+CUST6170,17-10-2024,2001.49,Debit,Online Shopping,93127,5432.65,Not Started,North,Low,Silver,Low,Other,67
+CUST6915,12-04-2025,5362.37,Credit,Healthcare,169811,950.85,Completed,East,Medium,Silver,Low,Male,20
+CUST1823,06-08-2024,1649.19,Credit,Healthcare,109446,6801.41,Completed,South,Medium,Platinum,Moderate,Female,18
+CUST1140,22-03-2025,7343.55,Credit,Travel,168762,7007.09,Completed,West,Low,Gold,Low,Other,38
+CUST4632,11-08-2024,7212.55,Credit,Online Shopping,63612,7609.5,Completed,West,Low,Gold,Moderate,Other,29
+CUST6438,15-04-2025,9004.33,Debit,Groceries,171559,5260.01,Pending,South,Low,Platinum,Moderate,Female,50
+CUST9846,14-12-2024,470.39,Debit,Healthcare,184845,5270.57,Completed,North,Low,Gold,Low,Female,32
+CUST4037,21-10-2024,4253.62,Debit,Restaurants,111515,24420.1,Completed,South,Low,Platinum,Moderate,Male,30
+CUST2565,12-04-2025,2764.03,Debit,Restaurants,131124,29735.52,Completed,East,Medium,Platinum,Low,Other,58
+CUST5677,09-10-2024,7948.69,Credit,Restaurants,100773,25250.06,Pending,East,Low,Gold,Low,Female,34
+CUST2270,04-12-2024,2181.09,Debit,Restaurants,32333,23346.03,Pending,West,Low,Silver,Moderate,Female,54
+CUST6648,24-02-2025,4523.39,Debit,Travel,79135,12853.47,Completed,South,Low,Silver,Moderate,Female,30
+CUST7956,09-10-2024,9116.23,Debit,Bills,161999,9451.87,Pending,North,Low,Gold,Low,Male,49
+CUST6050,17-05-2025,327.16,Credit,Restaurants,113380,2106.68,Completed,East,Low,Platinum,Low,Female,39
+CUST2971,10-01-2025,8068.97,Credit,Restaurants,192780,23774.89,Completed,North,Low,Gold,Moderate,Female,31
+CUST4007,18-08-2024,7488.97,Debit,Online Shopping,191490,23315.47,Completed,South,Low,Platinum,Moderate,Male,51
+CUST5453,22-10-2024,2444.73,Debit,Restaurants,195553,11070.8,Pending,North,High,Platinum,Moderate,Male,65
+CUST8401,14-03-2025,2829.26,Credit,Online Shopping,135725,7319.75,Completed,East,Low,Platinum,Low,Male,43
+CUST7532,17-01-2025,5426.46,Debit,Online Shopping,109945,3610.42,Completed,South,Low,Silver,Low,Female,55
+CUST2533,13-06-2025,6208.81,Credit,Online Shopping,43220,3818.57,Completed,North,Low,Silver,Moderate,Other,54
+CUST1383,06-09-2024,9845.29,Credit,Online Shopping,113937,17673.45,Not Started,West,Low,Silver,Low,Female,39
+CUST4686,30-09-2024,9678.76,Credit,Groceries,112868,11103.05,Pending,North,Low,Gold,High,Female,39
+CUST6090,04-06-2025,5375.38,Debit,Restaurants,79062,28216.76,Completed,West,Low,Platinum,Moderate,Female,24
+CUST3241,16-04-2025,9485.83,Debit,Healthcare,27524,6132.11,Completed,South,Low,Gold,Moderate,Male,43
+CUST6384,18-03-2025,2047.67,Credit,Online Shopping,105051,12243.11,Pending,North,High,Silver,Moderate,Female,35
+CUST2640,11-04-2025,4414.06,Debit,Bills,68592,7084.29,Completed,North,Low,Silver,High,Male,51
+CUST8703,16-03-2025,1159.66,Credit,Restaurants,183526,20728.59,Completed,West,Low,Gold,Low,Male,33
+CUST9350,24-10-2024,1031.06,Debit,Entertainment,126619,7744.8,Completed,West,Medium,Gold,Low,Other,38
+CUST4953,21-07-2024,6873.93,Credit,Bills,48495,26402.91,Completed,North,Low,Platinum,Moderate,Female,50
+CUST2731,02-01-2025,4336.92,Debit,Bills,188281,12185.93,Completed,South,Medium,Platinum,Moderate,Male,40
+CUST5345,16-09-2024,2764.43,Credit,Online Shopping,60705,9055.31,Pending,East,Low,Platinum,Low,Female,36
+CUST1876,24-08-2024,9103.74,Debit,Groceries,52785,22993.48,Completed,South,Low,Silver,Moderate,Female,40
+CUST5256,09-11-2024,7686.85,Debit,Online Shopping,81209,28785.88,Pending,North,Low,Silver,Moderate,Male,34
+CUST9145,28-01-2025,6678.78,Debit,Online Shopping,142373,943.71,Completed,East,Low,Silver,Low,Male,56
+CUST7312,15-08-2024,8442.58,Credit,Groceries,148201,29157.55,Completed,East,Low,Gold,High,Female,25
+CUST6467,07-01-2025,2771.82,Credit,Groceries,80123,10865.35,Pending,North,Medium,Silver,Moderate,Female,38
+CUST8323,26-11-2024,4888.03,Credit,Healthcare,144664,21541.25,Completed,North,Low,Gold,Moderate,Other,45
+CUST3786,15-05-2025,3666.64,Credit,Online Shopping,58610,29548.78,Completed,South,Low,Platinum,Moderate,Male,68
+CUST5082,30-08-2024,5569.36,Credit,Travel,41305,23070.53,Pending,North,Low,Platinum,Low,Female,60
+CUST2342,05-07-2025,7859.93,Debit,Entertainment,110870,21619.95,Completed,North,Medium,Gold,Moderate,Female,40
+CUST6236,13-03-2025,6192.05,Credit,Bills,51737,18277.26,Completed,North,Medium,Silver,High,Male,69
+CUST4683,25-02-2025,9250.03,Debit,Online Shopping,64827,19236.61,Completed,North,Low,Gold,Moderate,Other,52
+CUST4694,22-11-2024,3708.3,Credit,Entertainment,43488,1737.07,Pending,North,Low,Silver,Low,Male,67
+CUST3276,14-10-2024,3213.29,Credit,Entertainment,112852,23605.74,Pending,North,Low,Platinum,Moderate,Other,37
+CUST5958,11-06-2025,3687.2,Debit,Online Shopping,141406,16055.92,Completed,East,Low,Platinum,Low,Female,44
+CUST1328,10-04-2025,3666.63,Debit,Healthcare,131273,27631.83,Not Started,West,Low,Platinum,Low,Female,47
+CUST2827,01-08-2024,5898.18,Credit,Bills,147958,24646.6,Completed,South,High,Gold,Low,Female,44
+CUST3226,16-07-2025,651.44,Debit,Groceries,120444,26366.95,Pending,North,Low,Silver,Moderate,Female,18
+CUST3491,14-06-2025,3091.85,Debit,Online Shopping,154062,18807.98,Completed,South,Low,Platinum,Moderate,Female,24
+CUST6191,17-11-2024,7843.34,Credit,Groceries,57604,4755.44,Not Started,North,Low,Gold,Low,Male,56
+CUST4418,13-01-2025,385.29,Debit,Travel,37754,20291.33,Not Started,West,Low,Silver,Moderate,Male,34
+CUST5299,18-07-2025,5509.94,Credit,Healthcare,126561,4985.46,Completed,South,Low,Silver,Low,Other,29
+CUST8535,06-03-2025,2474.88,Debit,Restaurants,175204,11943.15,Not Started,East,Low,Silver,Moderate,Other,47
+CUST1501,16-01-2025,2445.72,Debit,Bills,130955,16961.76,Completed,South,Low,Silver,Low,Female,32
+CUST1163,06-01-2025,9598.89,Credit,Groceries,188610,21560.68,Completed,South,Low,Gold,High,Male,62
+CUST8552,07-01-2025,2231.05,Debit,Healthcare,104587,5175.12,Completed,East,Medium,Platinum,Moderate,Other,46
+CUST7452,02-06-2025,3793.67,Debit,Online Shopping,171204,24679.17,Pending,West,Low,Silver,High,Female,51
+CUST5153,22-07-2024,6161.25,Credit,Healthcare,102371,25864.26,Completed,West,Low,Silver,Moderate,Female,57
+CUST3836,04-04-2025,3474.29,Credit,Bills,193420,4579.51,Completed,West,Low,Platinum,Low,Male,38
+CUST6325,30-09-2024,3745.25,Credit,Entertainment,83256,20534.13,Completed,North,Low,Silver,Moderate,Male,39
+CUST4797,15-02-2025,2834.54,Credit,Groceries,61301,20067.18,Completed,North,Low,Platinum,Low,Other,39
+CUST6040,15-05-2025,6236.14,Credit,Healthcare,136441,16521.64,Pending,West,Low,Platinum,High,Female,59
+CUST2363,11-04-2025,9542.32,Credit,Online Shopping,89955,2403.19,Completed,East,Medium,Platinum,High,Female,66
+CUST5852,02-10-2024,6417.05,Credit,Entertainment,28101,13913.01,Not Started,North,Low,Gold,Moderate,Male,44
+CUST4504,16-06-2025,9468.2,Credit,Restaurants,48581,7548.91,Pending,East,Low,Gold,Low,Female,25
+CUST1214,08-10-2024,8894.02,Credit,Healthcare,163298,26924.27,Pending,North,Low,Platinum,Low,Male,55
+CUST6920,23-09-2024,824.72,Debit,Travel,163974,28734.52,Completed,West,Low,Silver,Moderate,Other,64
+CUST2331,23-01-2025,1026.02,Credit,Entertainment,157889,9212.01,Completed,South,Low,Silver,High,Female,26
+CUST3111,13-11-2024,8604.21,Credit,Bills,25354,6301.79,Completed,South,Low,Silver,Moderate,Other,22
+CUST2890,13-11-2024,2504.36,Credit,Groceries,139795,28831.06,Pending,North,Low,Platinum,High,Male,39
+CUST1138,07-02-2025,6923.01,Credit,Restaurants,63792,7649.17,Completed,East,Low,Gold,Moderate,Other,19
+CUST3200,09-09-2024,7142.76,Debit,Entertainment,196791,11461.66,Completed,East,Low,Platinum,Low,Female,36
+CUST9325,12-05-2025,2597.8,Credit,Bills,87939,14711.27,Pending,East,Low,Gold,Moderate,Male,51
+CUST4847,24-02-2025,9773.82,Debit,Entertainment,107159,5916.6,Completed,North,Low,Platinum,High,Other,18
+CUST7099,10-12-2024,7977.06,Debit,Travel,34785,17697.69,Completed,West,Low,Silver,Moderate,Male,44
+CUST5809,28-07-2024,6544.41,Debit,Bills,105250,20717.38,Completed,East,Medium,Gold,Low,Female,22
+CUST3261,23-03-2025,3779.85,Debit,Entertainment,69458,3729.37,Not Started,South,Low,Platinum,Moderate,Female,61
+CUST3341,01-11-2024,1703.87,Credit,Travel,129892,18727.91,Pending,West,Medium,Silver,Moderate,Male,32
+CUST5222,18-01-2025,3412.44,Credit,Bills,45744,15922.84,Completed,East,Low,Silver,Moderate,Male,26
+CUST6677,23-09-2024,9911.94,Credit,Restaurants,187839,13601.56,Completed,South,Low,Platinum,High,Male,36
+CUST4608,19-12-2024,3300.1,Credit,Healthcare,181651,15344,Completed,West,Low,Platinum,High,Female,35
+CUST2622,08-10-2024,8227.24,Debit,Restaurants,135040,25354.59,Completed,South,Low,Platinum,Low,Other,19
+CUST9123,30-11-2024,4254.94,Debit,Restaurants,162062,18646.24,Not Started,West,Low,Platinum,Moderate,Female,67
+CUST5879,16-05-2025,8084.49,Debit,Travel,193642,7986.79,Completed,South,Medium,Platinum,Low,Male,40
+CUST4776,10-02-2025,8789.32,Credit,Groceries,170802,27047.46,Completed,North,Low,Silver,Moderate,Male,27
+CUST5143,18-02-2025,5263.86,Debit,Travel,165518,7379.63,Pending,West,Low,Gold,Moderate,Female,18
+CUST4395,04-08-2024,5882.76,Credit,Online Shopping,71980,21019.31,Not Started,South,High,Silver,Moderate,Other,43
+CUST5303,27-10-2024,1488.52,Credit,Entertainment,84839,9557.91,Completed,North,Low,Gold,Moderate,Male,57
+CUST8531,21-03-2025,8674.34,Debit,Bills,183815,8277.88,Completed,North,Low,Gold,Low,Other,24
+CUST5916,12-09-2024,2031.19,Debit,Travel,81000,20215.29,Not Started,East,Medium,Platinum,Low,Male,50
+CUST1251,21-10-2024,4464.74,Credit,Groceries,38126,11116.69,Completed,West,Low,Gold,Moderate,Male,40
+CUST2889,13-09-2024,1284.29,Credit,Travel,110324,8949.94,Completed,North,Medium,Platinum,High,Other,33
+CUST3525,20-08-2024,4835.07,Debit,Entertainment,79365,8913.64,Completed,North,Low,Platinum,Low,Male,57
+CUST8702,11-03-2025,7365.29,Debit,Entertainment,76959,28566.32,Not Started,North,Low,Gold,High,Male,25
+CUST9665,06-09-2024,3957.33,Debit,Entertainment,137664,21343.72,Completed,East,Low,Gold,Low,Male,21
+CUST1853,19-02-2025,8293.36,Credit,Online Shopping,90758,7760.2,Completed,West,Low,Gold,High,Female,32
+CUST5548,10-06-2025,9510.06,Credit,Entertainment,43993,15564.84,Completed,North,Low,Platinum,Low,Male,64
+CUST7793,05-03-2025,6487.92,Debit,Healthcare,190997,2575.66,Pending,North,Medium,Silver,High,Male,21
+CUST1479,11-03-2025,5410.24,Debit,Groceries,153819,2614.12,Completed,South,Medium,Silver,Moderate,Other,69
+CUST7803,17-02-2025,1442.44,Debit,Restaurants,77513,27284.57,Completed,West,Low,Silver,High,Female,30
+CUST7147,27-11-2024,8194.79,Credit,Bills,157143,6280.76,Not Started,East,Low,Gold,Moderate,Female,48
+CUST1002,09-04-2025,1505.47,Credit,Entertainment,59050,20274.74,Completed,East,Medium,Platinum,Low,Female,27
+CUST4842,01-10-2024,6922.19,Credit,Bills,169045,24024.91,Pending,West,Low,Silver,Moderate,Male,59
+CUST4292,26-07-2024,2331.23,Debit,Bills,199740,5180.75,Not Started,East,Low,Gold,High,Other,54
+CUST1025,11-12-2024,7659.8,Debit,Bills,38733,7355.15,Completed,West,Low,Gold,Moderate,Other,46
+CUST8282,19-08-2024,7926.01,Credit,Groceries,173468,28003.14,Completed,East,Low,Platinum,High,Male,18
+CUST4497,07-07-2025,7507.63,Credit,Healthcare,75699,8101.44,Completed,North,Low,Gold,High,Female,34
+CUST5217,26-03-2025,8803.79,Credit,Online Shopping,75224,6681.44,Completed,West,Low,Platinum,Moderate,Female,42
+CUST6661,28-10-2024,4760.91,Credit,Online Shopping,90899,12457.19,Completed,South,Low,Platinum,High,Female,44
+CUST1096,19-10-2024,4972.59,Credit,Healthcare,111444,14679.5,Not Started,South,Low,Gold,Moderate,Female,50
+CUST8296,08-12-2024,7075.16,Credit,Healthcare,135571,1683.66,Completed,North,Low,Gold,Moderate,Male,44
+CUST7027,14-10-2024,5760.2,Credit,Healthcare,191289,3801.65,Completed,North,Low,Silver,Moderate,Other,59
+CUST3574,05-08-2024,2606.38,Debit,Bills,198353,1922.89,Completed,North,Low,Silver,High,Other,55
+CUST3058,25-12-2024,4106.98,Debit,Entertainment,82177,28264.44,Completed,North,Medium,Platinum,Moderate,Male,29
+CUST5254,09-03-2025,7565.25,Credit,Groceries,111640,25662.61,Completed,North,High,Platinum,Low,Male,55
+CUST5395,01-10-2024,8122.05,Debit,Entertainment,95075,19212.1,Completed,West,Low,Silver,High,Other,60
+CUST7974,25-04-2025,6688.38,Debit,Groceries,56860,18629.79,Pending,West,Medium,Silver,Low,Female,18
+CUST1389,13-02-2025,6623.62,Credit,Online Shopping,47916,12343.36,Completed,North,Low,Silver,High,Female,65
+CUST2693,27-06-2025,3727.45,Credit,Entertainment,138374,2244.04,Completed,East,Low,Platinum,Moderate,Female,41
+CUST2548,20-03-2025,4004.16,Debit,Entertainment,99525,3439.29,Completed,East,Low,Platinum,Low,Female,68
+CUST3610,13-01-2025,5542.02,Credit,Travel,27891,17383.18,Completed,South,Low,Gold,Moderate,Male,23
+CUST8268,17-01-2025,738.95,Credit,Bills,112575,18385.1,Completed,South,Low,Gold,Moderate,Female,67
+CUST9618,23-05-2025,380.4,Debit,Entertainment,51699,18606.58,Completed,East,Low,Platinum,Moderate,Female,53
+CUST2121,31-10-2024,4458.94,Credit,Restaurants,162379,16744.97,Not Started,North,Medium,Silver,Moderate,Other,41
+CUST9534,05-01-2025,8383.88,Debit,Healthcare,142746,7081.47,Not Started,North,Low,Platinum,Moderate,Female,55
+CUST1470,30-01-2025,2482.99,Debit,Entertainment,51977,22241.77,Completed,West,Low,Silver,Moderate,Other,63
+CUST5840,15-03-2025,2331.58,Debit,Entertainment,111529,8444.21,Completed,East,High,Platinum,Low,Other,18
+CUST4975,22-12-2024,3250.81,Credit,Bills,116365,1560.79,Completed,West,Medium,Silver,Low,Male,18
+CUST3972,09-07-2025,2739.41,Debit,Healthcare,168502,6290.01,Pending,North,Low,Platinum,Moderate,Female,49
+CUST4997,12-04-2025,159.87,Credit,Healthcare,76388,3413.97,Pending,East,Medium,Gold,Low,Male,39
+CUST5183,26-12-2024,9636.81,Credit,Restaurants,180349,7480.25,Completed,East,Low,Silver,Moderate,Female,47
+CUST9533,23-03-2025,4098.46,Credit,Travel,132360,23498.45,Completed,West,Low,Platinum,Moderate,Male,51
+CUST9151,19-10-2024,6891.16,Credit,Restaurants,31742,16756.74,Pending,South,High,Platinum,High,Other,23
+CUST5109,02-10-2024,5223.4,Credit,Travel,38331,12691.03,Pending,East,Low,Gold,Low,Other,36
+CUST1778,15-10-2024,1053.62,Credit,Restaurants,25271,3636.9,Completed,South,Low,Silver,High,Other,19
+CUST8881,14-08-2024,2919.73,Credit,Entertainment,34759,25726.8,Completed,East,Medium,Gold,Moderate,Male,23
+CUST8923,13-11-2024,9433.59,Debit,Online Shopping,149493,8032.09,Completed,North,Low,Platinum,Moderate,Male,68
+CUST2225,19-07-2025,6127.39,Credit,Restaurants,144808,1838.87,Completed,East,Medium,Platinum,Moderate,Male,58
+CUST2101,28-10-2024,6073.02,Debit,Bills,83934,25888.3,Pending,North,Medium,Silver,Moderate,Other,48
+CUST2336,09-09-2024,1397.93,Credit,Online Shopping,91366,1627.88,Pending,South,Low,Platinum,Moderate,Male,56
+CUST1462,06-10-2024,2939.43,Credit,Restaurants,174073,27790.86,Completed,East,Low,Platinum,Moderate,Male,56
+CUST6995,23-04-2025,821.57,Debit,Entertainment,66658,17544.86,Completed,North,Low,Silver,Low,Other,56
+CUST6288,10-08-2024,1466.03,Debit,Restaurants,190502,5091.87,Completed,North,Low,Silver,Low,Male,24
+CUST3521,11-05-2025,4243.94,Credit,Entertainment,197569,2071.39,Pending,South,Medium,Gold,Low,Other,51
+CUST2454,15-11-2024,1394.91,Credit,Travel,146452,26131.36,Completed,East,Low,Silver,Moderate,Female,18
+CUST4708,06-05-2025,2215.56,Credit,Entertainment,76911,18690.11,Completed,North,Low,Gold,Low,Female,33
+CUST6969,30-12-2024,6337.06,Debit,Online Shopping,146336,18689.76,Completed,East,Low,Platinum,Moderate,Other,20
+CUST9120,11-02-2025,3547.23,Debit,Bills,93849,22671.33,Pending,South,Medium,Platinum,Low,Female,26
+CUST8678,22-12-2024,4323.24,Credit,Healthcare,74091,20870.98,Not Started,North,Low,Gold,Low,Female,33
+CUST2202,18-05-2025,245.8,Debit,Bills,40978,29656.42,Completed,North,Low,Gold,Low,Other,23
+CUST8363,23-12-2024,1370.78,Credit,Online Shopping,80564,5254.23,Completed,East,Low,Platinum,Moderate,Male,19
+CUST8346,19-02-2025,6992.76,Debit,Entertainment,73105,9077.72,Completed,North,Medium,Platinum,Moderate,Female,24
+CUST3783,20-04-2025,2305,Credit,Groceries,180437,19975.4,Completed,West,Low,Gold,High,Male,21
+CUST1404,30-12-2024,6144.76,Credit,Groceries,50671,19652.75,Pending,East,Low,Silver,High,Female,47
+CUST3349,09-11-2024,2540.58,Debit,Travel,67509,21516.89,Completed,South,Low,Platinum,Moderate,Female,49
+CUST3257,29-11-2024,1135.42,Debit,Healthcare,78156,18864.9,Completed,East,Low,Silver,Moderate,Other,51
+CUST3728,19-11-2024,2855.9,Debit,Travel,77338,17128.98,Pending,North,Low,Silver,Moderate,Other,63
+CUST4818,28-09-2024,570.49,Debit,Restaurants,181764,18550.03,Completed,West,Low,Platinum,Moderate,Other,47
+CUST3727,15-07-2025,907.42,Debit,Entertainment,198909,950.56,Pending,East,Low,Platinum,Moderate,Other,67
+CUST2759,14-02-2025,8225.17,Debit,Restaurants,155970,6646.3,Completed,North,Low,Gold,Low,Female,23
+CUST2925,31-10-2024,7161.57,Credit,Healthcare,121848,10012.46,Completed,West,Low,Silver,Low,Male,21
+CUST3686,24-03-2025,4230.42,Credit,Healthcare,118872,28720.02,Not Started,East,Low,Platinum,Moderate,Male,49
+CUST1277,24-11-2024,9747.7,Debit,Healthcare,139077,6179.3,Not Started,East,Medium,Silver,Low,Female,19
+CUST1835,06-11-2024,9171.5,Debit,Travel,61993,1750.54,Completed,West,Medium,Gold,Moderate,Other,28
+CUST4894,18-04-2025,7548.97,Debit,Restaurants,97205,2377.14,Pending,North,Low,Platinum,Low,Male,24
+CUST1684,27-12-2024,7787.06,Debit,Entertainment,139983,11925.74,Completed,North,Low,Platinum,Moderate,Male,27
+CUST2317,13-04-2025,524.71,Debit,Restaurants,199913,25147.22,Completed,East,Low,Gold,Moderate,Female,67
+CUST4765,26-05-2025,190.5,Debit,Groceries,73848,22476.62,Completed,East,Medium,Platinum,Low,Male,33
+CUST5462,15-04-2025,3111.66,Debit,Travel,145296,11861.59,Completed,West,Medium,Gold,Low,Female,27
+CUST5644,24-05-2025,1325.44,Debit,Bills,162494,21992.56,Completed,East,Low,Gold,Low,Female,33
+CUST6796,11-05-2025,7706.94,Credit,Restaurants,39209,19989.35,Completed,West,Low,Gold,High,Other,20
+CUST4182,06-04-2025,8863.52,Debit,Entertainment,139619,11964.02,Pending,West,Low,Silver,High,Male,60
+CUST2625,08-01-2025,9820.43,Credit,Restaurants,180673,8854.65,Completed,West,Medium,Platinum,Low,Male,49
+CUST8481,19-09-2024,9672.12,Credit,Restaurants,169650,20317.1,Completed,West,Low,Silver,Low,Female,55
+CUST3863,29-04-2025,5116.96,Credit,Bills,83302,13723.77,Completed,West,Low,Gold,Low,Female,30
+CUST8544,03-07-2025,583.98,Debit,Travel,54721,4410.62,Completed,East,Low,Gold,Low,Other,36
+CUST5428,23-01-2025,493.1,Debit,Entertainment,149294,13920.49,Pending,South,Low,Gold,Low,Male,58
+CUST5538,16-05-2025,6641.76,Debit,Groceries,163300,16444.41,Not Started,East,Medium,Gold,Moderate,Male,25
+CUST9105,08-01-2025,8364.06,Debit,Restaurants,56645,10339.35,Completed,South,Medium,Gold,Moderate,Female,45
+CUST3175,01-03-2025,5714.13,Credit,Restaurants,33128,25684.38,Completed,East,Low,Gold,Moderate,Female,57
+CUST6314,01-11-2024,9665.71,Credit,Travel,198881,7397.99,Completed,West,Low,Gold,Low,Other,43
+CUST3478,04-02-2025,7611.52,Debit,Bills,176814,28120.94,Completed,West,Low,Platinum,Low,Female,47
+CUST1253,09-12-2024,9551.95,Debit,Restaurants,60582,24712.69,Pending,East,Low,Gold,Low,Female,53
+CUST4113,22-04-2025,9429.76,Credit,Healthcare,110797,27755.35,Pending,South,Low,Gold,Low,Male,32
+CUST8542,18-01-2025,4578.68,Debit,Entertainment,42868,3366.05,Completed,West,Low,Gold,Moderate,Male,27
+CUST4135,14-09-2024,5370.2,Debit,Healthcare,95742,13167.04,Completed,East,High,Gold,Moderate,Male,63
+CUST5258,03-04-2025,4173.88,Debit,Online Shopping,137116,18767.33,Completed,East,Low,Platinum,Low,Female,54
+CUST3671,20-01-2025,2303.25,Debit,Restaurants,193107,6880.42,Not Started,West,Low,Platinum,High,Female,65
+CUST6262,15-12-2024,2067.29,Credit,Restaurants,168403,29806.91,Completed,West,Medium,Gold,Moderate,Female,41
+CUST6816,27-08-2024,5963.99,Debit,Travel,170956,4583.24,Completed,South,High,Gold,Moderate,Female,26
+CUST7642,12-05-2025,7000.73,Credit,Groceries,125961,18456.33,Completed,East,Low,Silver,High,Male,69
+CUST4277,02-08-2024,545.88,Credit,Entertainment,124416,2084,Completed,East,Medium,Platinum,High,Female,47
+CUST5455,01-11-2024,4690.89,Debit,Entertainment,136324,5883.84,Completed,South,Low,Silver,High,Female,61
+CUST3664,08-10-2024,102.98,Credit,Healthcare,155515,18210.33,Pending,East,Medium,Platinum,Low,Male,24
+CUST3643,31-12-2024,3899.12,Credit,Online Shopping,170668,14680.14,Completed,West,Low,Gold,Low,Other,68
+CUST7230,28-10-2024,924.13,Credit,Healthcare,139186,25537.73,Completed,North,Low,Gold,Moderate,Other,30
+CUST8965,27-12-2024,792.45,Credit,Healthcare,34479,5547.81,Not Started,East,Low,Silver,Low,Male,63
+CUST8222,21-12-2024,3849.51,Debit,Groceries,25207,12851.64,Completed,North,High,Platinum,Moderate,Female,38
+CUST7491,11-06-2025,6787.16,Debit,Healthcare,152562,10722.29,Pending,West,Low,Silver,Low,Female,41
+CUST5856,06-02-2025,4512.63,Debit,Restaurants,127810,16934.79,Completed,East,Low,Silver,Low,Other,63
+CUST9087,09-05-2025,9893.88,Credit,Healthcare,91881,14334.84,Completed,East,Low,Gold,Moderate,Other,33
+CUST2204,15-05-2025,7472.6,Credit,Restaurants,93936,21237.61,Pending,North,Low,Platinum,Moderate,Male,38
+CUST1803,01-12-2024,2172.38,Debit,Bills,144460,4715.47,Completed,West,High,Silver,Moderate,Female,34
+CUST7269,26-05-2025,5994.29,Debit,Bills,69053,2298.03,Not Started,West,Low,Gold,Moderate,Male,59
+CUST7470,30-03-2025,8692.84,Debit,Travel,53479,8961.35,Completed,East,Low,Platinum,Low,Female,18
+CUST9070,31-10-2024,9758.96,Credit,Restaurants,156613,2777.75,Completed,South,Medium,Gold,Low,Female,43
+CUST9550,18-12-2024,8432.85,Credit,Groceries,65322,29567.49,Pending,West,Low,Silver,High,Male,54
+CUST1337,13-04-2025,1021.94,Credit,Groceries,76923,642.52,Completed,West,Low,Silver,Moderate,Female,27
+CUST9494,28-06-2025,6060.83,Credit,Entertainment,56172,1771.67,Completed,East,Low,Silver,High,Male,53
+CUST8626,04-01-2025,9570.99,Credit,Groceries,187057,19235.04,Completed,South,Low,Platinum,Low,Male,45
+CUST6767,06-07-2025,5402.47,Debit,Online Shopping,86276,23318.15,Pending,West,Low,Platinum,Moderate,Other,37
+CUST9153,17-05-2025,7811.07,Credit,Healthcare,172673,14865.82,Completed,West,Low,Silver,High,Male,48
+CUST8753,01-05-2025,3446.96,Credit,Bills,172380,23041.3,Completed,West,Low,Gold,High,Other,28
+CUST4666,06-11-2024,4670.04,Debit,Entertainment,150007,6498.94,Completed,West,High,Platinum,High,Female,30
+CUST3609,05-01-2025,8984.7,Debit,Groceries,90126,2975.36,Completed,North,Low,Platinum,High,Male,38
+CUST3261,27-06-2025,5866.24,Debit,Online Shopping,62942,14649.38,Completed,East,Low,Platinum,Low,Female,53
+CUST1537,06-10-2024,1861.37,Debit,Travel,28353,7373.16,Pending,East,Low,Gold,Low,Other,49
+CUST6302,10-06-2025,1220.49,Debit,Entertainment,34271,9606.83,Pending,South,Low,Gold,Moderate,Female,65
+CUST7944,24-10-2024,2909.82,Credit,Online Shopping,49016,29911.61,Completed,North,High,Gold,High,Other,32
+CUST9787,20-05-2025,6793.38,Credit,Healthcare,167181,26974.58,Completed,West,Low,Silver,Moderate,Other,21
+CUST3627,02-09-2024,9826.21,Credit,Healthcare,88365,9243.52,Pending,North,Medium,Platinum,Moderate,Female,19
+CUST3006,04-09-2024,5191.37,Debit,Entertainment,98606,25903.31,Completed,East,Low,Gold,Moderate,Other,25
+CUST6322,27-08-2024,1281.26,Debit,Restaurants,156071,22101.28,Not Started,West,Low,Platinum,Moderate,Female,19
+CUST1229,14-01-2025,1582.13,Debit,Groceries,97100,28293.93,Completed,East,Low,Platinum,High,Female,46
+CUST7216,01-08-2024,2177.5,Debit,Groceries,61579,26302.47,Completed,South,High,Platinum,Moderate,Other,67
+CUST8483,15-05-2025,3133.72,Credit,Restaurants,102726,26735.87,Completed,South,Low,Gold,Moderate,Female,45
+CUST4206,07-06-2025,2627.54,Credit,Online Shopping,41557,26512.25,Completed,East,Low,Silver,High,Female,50
+CUST5324,17-09-2024,9097.71,Debit,Healthcare,80117,3552.04,Completed,North,Low,Gold,Moderate,Other,60
+CUST3358,29-08-2024,2955.79,Credit,Groceries,41825,29187.15,Pending,West,High,Platinum,High,Male,40
+CUST6772,19-11-2024,612.23,Credit,Bills,60416,13807.61,Completed,South,High,Silver,Low,Male,61
+CUST7673,15-10-2024,5620.11,Credit,Groceries,95536,8374.95,Completed,South,Low,Gold,Moderate,Male,33
+CUST8847,12-11-2024,4199.89,Debit,Groceries,66243,24845.69,Completed,West,High,Platinum,Moderate,Other,48
+CUST9708,24-05-2025,732.43,Debit,Online Shopping,110619,1763.38,Completed,South,Low,Platinum,Low,Female,46
+CUST8631,02-05-2025,359,Debit,Groceries,144203,23545.81,Completed,North,Low,Platinum,Moderate,Male,31
+CUST2156,04-10-2024,8673.58,Credit,Entertainment,142735,3968.07,Completed,South,Low,Gold,High,Female,49
+CUST5509,31-03-2025,2356.86,Credit,Online Shopping,175326,3364.61,Completed,East,Low,Platinum,Low,Other,55
+CUST5872,11-07-2025,6082.07,Debit,Travel,126390,22100.32,Completed,North,Low,Platinum,High,Male,43
+CUST3798,18-09-2024,3303.42,Debit,Entertainment,93846,3825.09,Completed,South,Low,Platinum,High,Other,29
+CUST4303,05-04-2025,4375.25,Debit,Entertainment,189529,5973.74,Pending,West,Low,Gold,Moderate,Male,58
+CUST8670,04-11-2024,2558.23,Credit,Restaurants,179162,8420.79,Completed,North,Low,Silver,Moderate,Female,60
+CUST5421,14-01-2025,6189.84,Credit,Entertainment,78871,7046.58,Completed,West,Medium,Silver,Moderate,Female,29
+CUST2473,04-11-2024,9506.92,Debit,Travel,182206,27733.98,Pending,East,Low,Silver,Low,Male,64
+CUST1210,07-06-2025,7133.19,Credit,Bills,179740,29471.79,Not Started,West,Low,Silver,Moderate,Other,55
+CUST2266,23-12-2024,335.21,Debit,Entertainment,55030,15109.99,Pending,West,Low,Gold,High,Male,55
+CUST7470,31-01-2025,2182.15,Credit,Groceries,93701,6388.95,Completed,South,Low,Platinum,Low,Male,32
+CUST6896,03-12-2024,5431.1,Credit,Restaurants,40846,7083.18,Completed,North,Low,Silver,Moderate,Female,48
+CUST6697,09-11-2024,9993.07,Credit,Restaurants,30215,18739.83,Not Started,North,Low,Gold,Moderate,Female,47
+CUST4698,16-02-2025,3605.53,Credit,Online Shopping,190037,4654.77,Completed,South,Low,Gold,Moderate,Male,34
+CUST7122,13-08-2024,9541.16,Credit,Groceries,180803,22545.37,Not Started,South,Medium,Platinum,Moderate,Other,35
+CUST4633,27-06-2025,5252.83,Debit,Groceries,27575,18085.08,Completed,South,Low,Gold,Moderate,Other,40
+CUST6099,01-01-2025,7066.23,Credit,Bills,132799,2455.96,Completed,North,Low,Silver,Moderate,Female,33
+CUST3554,03-04-2025,7877.03,Credit,Entertainment,83927,5639.99,Not Started,North,Low,Platinum,Low,Female,53
+CUST6214,25-11-2024,1909.55,Credit,Travel,174210,10510.38,Completed,North,Low,Gold,Moderate,Male,22
+CUST5043,11-08-2024,5733.72,Debit,Groceries,81732,23365.99,Completed,East,Low,Gold,High,Male,62
+CUST7107,16-11-2024,3731.13,Credit,Healthcare,115297,9935.91,Pending,North,Low,Platinum,Moderate,Male,61
+CUST5959,05-06-2025,1612.03,Debit,Online Shopping,156858,13522.97,Completed,North,Low,Silver,Low,Other,36
+CUST3490,09-04-2025,7908.09,Credit,Healthcare,143443,10098.78,Completed,East,Low,Gold,Low,Female,38
+CUST6058,27-07-2024,1860.8,Debit,Healthcare,36682,4624.84,Not Started,West,Low,Gold,Moderate,Male,35
+CUST1252,04-05-2025,2017.02,Credit,Groceries,139424,17280.06,Completed,East,Medium,Gold,Moderate,Female,26
+CUST6248,28-08-2024,2478.31,Debit,Healthcare,25562,17422.42,Completed,North,Low,Gold,Low,Other,26
+CUST7731,28-11-2024,9883.81,Credit,Online Shopping,66169,20140.27,Pending,West,Low,Platinum,Low,Male,69
+CUST5989,17-08-2024,4780.01,Credit,Bills,33649,4142.8,Completed,West,Medium,Gold,Moderate,Male,25
+CUST6345,19-08-2024,4270.82,Credit,Entertainment,128690,11205.15,Completed,North,Low,Silver,Low,Male,69
+CUST9692,17-09-2024,8644.31,Debit,Groceries,104396,2156.4,Completed,West,Low,Platinum,Moderate,Other,42
+CUST4605,14-03-2025,5160.14,Debit,Restaurants,112428,29006.73,Pending,East,Low,Gold,Moderate,Male,41
+CUST4653,30-08-2024,3995.79,Debit,Travel,117724,20574.99,Completed,North,Low,Silver,Low,Other,25
+CUST6138,06-10-2024,4228.8,Credit,Groceries,143207,7652.56,Pending,East,High,Silver,Low,Female,42
+CUST2935,20-08-2024,350.88,Debit,Bills,163341,6898.99,Completed,West,High,Silver,Moderate,Female,46
+CUST6004,20-05-2025,8338.32,Credit,Healthcare,74088,10422.57,Not Started,East,Low,Gold,High,Other,25
+CUST8066,10-11-2024,2855.62,Debit,Bills,58031,11044.29,Completed,South,Low,Silver,Moderate,Other,32
+CUST7207,01-02-2025,1928.1,Credit,Entertainment,48618,13468.05,Completed,East,Medium,Platinum,Low,Female,24
+CUST4100,07-06-2025,2446.3,Credit,Bills,38356,5611.03,Completed,East,Low,Platinum,Moderate,Female,42
+CUST2200,12-09-2024,5502.06,Credit,Entertainment,133003,15892.39,Completed,North,Low,Platinum,Moderate,Other,28
+CUST6486,21-01-2025,611.87,Credit,Bills,37787,14802.04,Completed,North,Low,Gold,Moderate,Male,61
+CUST3599,04-05-2025,9861.52,Debit,Groceries,101859,16399.74,Not Started,West,Low,Silver,Moderate,Female,21
+CUST4126,12-06-2025,9317.04,Debit,Entertainment,180744,11205,Not Started,South,Low,Gold,Low,Male,66
+CUST1960,14-02-2025,8650.37,Credit,Restaurants,60875,28402.46,Completed,South,Low,Platinum,High,Male,34
+CUST3181,14-06-2025,9566.81,Credit,Restaurants,69511,13496.19,Completed,South,Low,Silver,High,Female,32
+CUST8926,07-03-2025,8717.69,Debit,Travel,81182,9856.02,Completed,South,Medium,Silver,Moderate,Other,49
+CUST5700,23-07-2024,4076.9,Debit,Healthcare,96830,26708.73,Completed,South,Low,Platinum,Moderate,Male,31
+CUST2763,13-02-2025,4881.01,Debit,Travel,111007,29931.17,Completed,East,Low,Silver,High,Other,36
+CUST6484,26-06-2025,9825.72,Credit,Groceries,87820,10431.21,Completed,West,Low,Gold,Low,Other,66
+CUST6815,15-12-2024,5318.46,Credit,Groceries,89640,22723.94,Completed,North,Low,Silver,Moderate,Female,32
+CUST9740,10-02-2025,8878.62,Credit,Healthcare,111613,2445.28,Completed,North,Low,Silver,High,Female,25
+CUST6633,20-03-2025,2773,Credit,Entertainment,34770,20614.54,Pending,North,Low,Platinum,Moderate,Other,28
+CUST2782,21-12-2024,6163.85,Credit,Travel,133169,22965.13,Completed,North,Low,Gold,Low,Male,58
+CUST8593,08-03-2025,9211.04,Debit,Healthcare,145442,8641.42,Pending,East,Low,Gold,Low,Female,54
+CUST5152,02-05-2025,202.5,Debit,Online Shopping,63148,17333.41,Pending,North,Low,Silver,Moderate,Other,36
+CUST7149,06-08-2024,2778.55,Credit,Healthcare,146688,15324.89,Pending,West,Low,Silver,Low,Female,65
+CUST6416,02-06-2025,6840.53,Credit,Travel,164675,16296.03,Pending,North,Low,Gold,Moderate,Female,67
+CUST7848,05-10-2024,1675.06,Credit,Groceries,40831,28477.94,Completed,South,Low,Gold,Moderate,Male,57
+CUST5848,05-03-2025,1605.47,Credit,Travel,60899,6458.5,Completed,West,Low,Platinum,High,Female,48
+CUST5903,28-07-2024,9047.13,Credit,Travel,83699,14781.65,Completed,South,Low,Silver,Moderate,Female,63
+CUST4512,28-06-2025,7256.7,Debit,Entertainment,158917,12829.13,Pending,East,Low,Gold,High,Male,36
+CUST5471,26-02-2025,5378.9,Debit,Travel,39135,22964.39,Pending,East,Medium,Platinum,High,Other,33
+CUST9641,08-04-2025,8486.28,Debit,Travel,111270,28289.06,Completed,West,Medium,Gold,Moderate,Female,22
+CUST8592,03-03-2025,957.64,Debit,Entertainment,53290,10606.3,Completed,North,Low,Gold,Low,Female,39
+CUST7369,09-01-2025,5105.68,Debit,Groceries,31174,10259.21,Pending,South,Low,Platinum,High,Male,42
+CUST9196,30-11-2024,3853.87,Debit,Healthcare,84948,29984.37,Completed,South,Medium,Gold,Low,Other,69
+CUST3503,28-11-2024,7755.59,Debit,Travel,144310,28989.88,Completed,West,Low,Platinum,High,Other,23
+CUST3778,29-12-2024,4927.89,Debit,Online Shopping,186432,23412.3,Pending,North,Low,Gold,Moderate,Male,53
+CUST2532,25-08-2024,5128.81,Debit,Online Shopping,193164,6560.1,Completed,East,Medium,Silver,Moderate,Other,43
+CUST8115,21-12-2024,7548.61,Debit,Groceries,54692,4124.85,Completed,West,Medium,Gold,Low,Female,18
+CUST7455,19-09-2024,1823.17,Credit,Healthcare,104626,7146,Pending,West,Low,Gold,Low,Other,32
+CUST7773,19-11-2024,2231.3,Credit,Entertainment,176781,29700.56,Completed,South,High,Silver,High,Male,54
+CUST5532,03-09-2024,7266.73,Debit,Entertainment,58178,25399.46,Completed,North,Low,Platinum,Moderate,Female,57
+CUST1396,09-08-2024,9463.29,Debit,Bills,58082,23582.06,Completed,West,Medium,Gold,Moderate,Female,63
+CUST3847,19-05-2025,4978.07,Credit,Entertainment,169532,29794.65,Completed,North,Low,Gold,Low,Male,18
+CUST3978,22-07-2024,7374.04,Credit,Healthcare,66780,12387.33,Completed,East,Low,Gold,Moderate,Male,62
+CUST6185,20-09-2024,4608.87,Debit,Restaurants,42393,11821.85,Completed,West,Low,Silver,Moderate,Male,40
+CUST8465,30-09-2024,6934.71,Debit,Healthcare,51759,11482.04,Completed,North,Low,Platinum,Moderate,Female,68
+CUST6241,15-10-2024,9986.51,Debit,Healthcare,115844,20263.38,Completed,North,Low,Platinum,Low,Male,63
+CUST6413,19-07-2024,6338.64,Debit,Entertainment,78749,22763.93,Completed,West,Low,Gold,Low,Female,24
+CUST9451,26-11-2024,4455.82,Credit,Entertainment,52232,25857.1,Completed,South,Low,Silver,Low,Female,52
+CUST8677,21-12-2024,9799.23,Debit,Restaurants,129919,16751.35,Completed,South,Low,Platinum,Low,Male,28
+CUST4870,06-01-2025,1484.63,Credit,Travel,167187,13149.98,Completed,West,Low,Silver,Moderate,Other,62
+CUST3022,15-09-2024,3555.95,Debit,Travel,157263,15793.02,Completed,East,Low,Silver,Moderate,Male,62
+CUST6306,08-11-2024,5396.19,Debit,Groceries,195660,18577.36,Completed,East,Low,Gold,Moderate,Male,34
+CUST6782,01-03-2025,8138.94,Debit,Travel,123020,15121.13,Completed,South,Low,Silver,Moderate,Male,40
+CUST2313,27-10-2024,7179.79,Credit,Healthcare,134841,17284.29,Completed,North,Low,Platinum,Moderate,Female,21
+CUST1166,12-08-2024,8595.53,Debit,Groceries,35838,19728.13,Completed,South,Low,Silver,Moderate,Male,34
+CUST5293,10-02-2025,4406.35,Credit,Travel,42701,14459.11,Completed,East,Low,Platinum,Low,Male,41
+CUST3508,01-06-2025,7640.18,Debit,Online Shopping,71688,21682.51,Not Started,North,Low,Platinum,Moderate,Male,23
+CUST3366,06-07-2025,2095.06,Debit,Bills,52308,622.77,Completed,West,Medium,Silver,Low,Male,22
+CUST4938,15-08-2024,5417.53,Credit,Groceries,94137,26886.44,Pending,South,Low,Gold,Low,Female,66
+CUST7161,29-05-2025,8567.16,Debit,Healthcare,101605,15589.19,Not Started,South,Low,Gold,Moderate,Other,24
+CUST6083,12-09-2024,8408.95,Credit,Bills,182280,1081.35,Pending,West,Low,Gold,High,Male,35
+CUST2417,08-02-2025,7854.11,Debit,Bills,40558,14229.67,Not Started,North,Low,Gold,Moderate,Male,61
+CUST4017,02-07-2025,1520.72,Debit,Entertainment,69542,18957.63,Completed,West,Low,Gold,Moderate,Other,42
+CUST4603,03-01-2025,672.05,Credit,Online Shopping,175871,22543.54,Completed,West,Medium,Platinum,Moderate,Female,31
+CUST7905,18-06-2025,1347.97,Debit,Entertainment,37502,808.43,Completed,South,Medium,Platinum,Moderate,Male,55
+CUST3997,27-03-2025,9062.32,Debit,Bills,58506,5658.72,Completed,East,Medium,Silver,Low,Male,54
+CUST3268,26-10-2024,7147.32,Credit,Online Shopping,162844,18387.95,Not Started,West,Low,Silver,Moderate,Other,66
+CUST6516,25-08-2024,2562.39,Debit,Bills,27073,7663.86,Pending,South,Medium,Silver,Low,Male,24
+CUST6996,23-05-2025,8926.27,Credit,Entertainment,39227,9687.96,Pending,South,Low,Silver,Moderate,Other,67
+CUST7227,09-04-2025,4822.65,Credit,Restaurants,44950,29625.4,Completed,North,Low,Gold,Moderate,Other,69
+CUST1696,16-07-2025,853.32,Debit,Entertainment,191518,5925.97,Completed,East,Low,Platinum,Moderate,Female,59
+CUST7746,09-09-2024,3531.3,Debit,Groceries,44044,18915.93,Pending,North,Low,Platinum,Moderate,Other,59
+CUST9136,10-02-2025,4224.69,Debit,Healthcare,59028,6162.98,Completed,North,Medium,Silver,High,Female,20
+CUST1746,29-01-2025,2292.1,Debit,Healthcare,168150,26865.16,Pending,South,Low,Silver,High,Female,66
+CUST8940,27-11-2024,5404.14,Credit,Restaurants,122725,20673.63,Completed,West,High,Platinum,Moderate,Female,45
+CUST5452,17-08-2024,8212.41,Debit,Groceries,57017,5499.67,Completed,South,High,Gold,Moderate,Male,26
+CUST3787,29-04-2025,2455.21,Debit,Groceries,28844,8733.14,Completed,West,Low,Silver,Moderate,Other,66
+CUST1538,09-10-2024,2672.48,Credit,Restaurants,50333,6998.73,Completed,South,Low,Gold,Moderate,Female,61
+CUST1245,06-07-2025,1725.38,Credit,Online Shopping,64762,11117.19,Completed,South,Low,Platinum,Low,Other,26
+CUST7309,30-05-2025,9124.85,Debit,Bills,183131,9633.95,Completed,West,Low,Silver,High,Female,35
+CUST6103,13-10-2024,643.36,Credit,Entertainment,69216,2022.08,Completed,West,Medium,Silver,Moderate,Other,36
+CUST3665,17-11-2024,3687.69,Credit,Groceries,126946,8637.72,Pending,South,Medium,Silver,Moderate,Other,32
+CUST9840,11-04-2025,7880.22,Debit,Online Shopping,141741,742.19,Completed,North,Low,Gold,High,Male,30
+CUST1881,10-09-2024,7569.64,Credit,Restaurants,43852,25190.9,Completed,West,Medium,Silver,High,Female,33
+CUST9594,10-12-2024,3238.78,Debit,Travel,63560,19120.53,Completed,West,Low,Platinum,Low,Female,52
+CUST4972,20-08-2024,1537.56,Credit,Healthcare,137332,20483.17,Completed,East,Low,Platinum,High,Male,62
+CUST2485,23-04-2025,809.72,Debit,Online Shopping,110028,5788.88,Pending,South,Low,Platinum,Low,Other,61
+CUST3532,18-04-2025,1636.39,Debit,Travel,146343,9711.35,Pending,North,Low,Platinum,High,Male,59
+CUST2563,14-10-2024,4239.75,Debit,Groceries,85186,516.25,Completed,South,Low,Gold,High,Female,25
+CUST1517,07-07-2025,3538.39,Debit,Travel,194950,15749.31,Pending,North,Low,Silver,Moderate,Other,68
+CUST4131,14-05-2025,9274.42,Debit,Entertainment,145904,18871.3,Pending,South,Medium,Platinum,Low,Female,19
+CUST2441,09-12-2024,3340.66,Debit,Entertainment,33095,2442.27,Pending,North,Medium,Gold,Moderate,Other,43
+CUST4754,10-12-2024,3761.28,Credit,Healthcare,154715,24659.59,Pending,South,Low,Gold,Moderate,Female,61
+CUST2653,08-09-2024,9926.54,Credit,Travel,198709,10077.07,Completed,North,Low,Silver,Moderate,Male,51
+CUST8322,15-12-2024,9752.47,Credit,Online Shopping,59458,2818.99,Completed,North,Low,Gold,Moderate,Male,24
+CUST1436,22-12-2024,2570.4,Credit,Entertainment,62629,27096.24,Completed,South,Medium,Gold,Moderate,Female,57
+CUST9611,30-10-2024,4816.56,Credit,Bills,40629,13620.78,Completed,West,Low,Platinum,Moderate,Other,65
+CUST7886,04-08-2024,9560.4,Debit,Entertainment,137519,27092.27,Completed,North,Low,Platinum,Moderate,Male,53
+CUST1264,10-06-2025,4621.41,Credit,Bills,73661,29243.19,Completed,South,Low,Gold,Moderate,Other,57
+CUST5005,05-10-2024,3685.63,Debit,Healthcare,132478,9978.49,Completed,South,Low,Silver,High,Female,40
+CUST2924,11-04-2025,1689.78,Debit,Healthcare,172044,6299.53,Completed,South,High,Silver,Moderate,Male,18
+CUST3941,13-06-2025,6275.89,Debit,Online Shopping,66234,21304.42,Completed,South,Low,Gold,High,Female,33
+CUST2914,20-09-2024,6523.28,Debit,Entertainment,33083,29506.16,Pending,North,Low,Platinum,Low,Male,29
+CUST7143,05-08-2024,6022.48,Credit,Groceries,60037,10853.49,Completed,West,Low,Platinum,Moderate,Male,38
+CUST6436,15-06-2025,1862.98,Credit,Healthcare,50826,15534.52,Pending,North,Low,Gold,Moderate,Other,43
+CUST3909,30-10-2024,7874.11,Credit,Bills,104074,9506.22,Pending,West,Low,Platinum,Moderate,Other,24
+CUST3220,07-12-2024,6712.95,Debit,Travel,102430,24998.58,Pending,North,Low,Gold,High,Male,48
+CUST2277,25-04-2025,8153.5,Debit,Groceries,37542,1099.28,Not Started,North,Medium,Silver,Moderate,Female,44
+CUST6158,04-07-2025,8567.03,Credit,Healthcare,71602,23980.22,Completed,East,Medium,Platinum,Moderate,Other,43
+CUST4993,06-06-2025,4378.69,Credit,Restaurants,120214,5616.38,Pending,East,Low,Silver,Moderate,Other,68
+CUST3851,13-01-2025,5216.92,Credit,Online Shopping,168927,21296.02,Pending,East,Medium,Platinum,High,Other,20
+CUST3000,14-12-2024,372.88,Debit,Healthcare,76740,4870.4,Pending,South,Low,Silver,High,Male,47
+CUST8920,21-09-2024,4168.23,Credit,Healthcare,29881,27016.52,Completed,East,Low,Platinum,Moderate,Male,65
+CUST7860,02-06-2025,3390.53,Credit,Groceries,78453,10092.57,Completed,West,Low,Silver,High,Female,67
+CUST7615,14-12-2024,5564.6,Credit,Groceries,108227,20408.19,Completed,South,Medium,Gold,Moderate,Female,31
+CUST8297,15-05-2025,1650.99,Credit,Restaurants,87087,8685.27,Completed,North,Medium,Gold,Low,Female,60
+CUST2242,18-05-2025,9773.79,Credit,Groceries,32861,5080.67,Completed,East,Low,Silver,Moderate,Other,46
+CUST8853,17-03-2025,9397.91,Credit,Restaurants,55064,1427.96,Not Started,North,Medium,Silver,High,Other,59
+CUST1842,22-12-2024,1513.95,Debit,Travel,170371,14557.28,Completed,West,Medium,Platinum,Low,Male,44
+CUST6168,26-10-2024,4568.12,Debit,Travel,117329,10657.48,Completed,East,Medium,Platinum,Low,Male,41
+CUST6345,08-11-2024,2064.95,Debit,Online Shopping,188503,20948.25,Pending,South,Low,Silver,Moderate,Other,28
+CUST3372,29-01-2025,5224.78,Credit,Groceries,73571,20705.78,Not Started,East,Low,Gold,High,Other,66
+CUST9769,30-11-2024,2493.19,Debit,Travel,98301,8385.42,Completed,North,Low,Gold,Low,Female,27
+CUST6373,04-01-2025,8644.96,Credit,Travel,62750,10239.01,Completed,North,Low,Gold,Low,Female,46
+CUST6990,04-01-2025,8248.47,Credit,Restaurants,61341,26446.74,Not Started,North,Low,Gold,High,Other,61
+CUST7538,23-09-2024,5849.43,Debit,Entertainment,127333,18221.52,Completed,South,Low,Platinum,Moderate,Male,63
+CUST4911,06-03-2025,7835.42,Credit,Bills,132575,865.02,Not Started,South,Low,Gold,Low,Female,43
+CUST2834,09-01-2025,4459.83,Debit,Healthcare,126887,17157.32,Completed,South,Medium,Silver,Moderate,Male,65
+CUST5408,28-08-2024,8820.08,Debit,Healthcare,92878,15531.29,Completed,East,Low,Platinum,Low,Other,21
+CUST6605,05-06-2025,6812.7,Debit,Healthcare,111942,23403.69,Pending,West,High,Platinum,Low,Other,64
+CUST7789,13-12-2024,6776.76,Debit,Online Shopping,105933,9029.31,Pending,South,Low,Gold,Moderate,Other,59
+CUST1040,04-07-2025,3588.2,Credit,Online Shopping,33276,19404.35,Completed,West,Medium,Gold,High,Female,43
+CUST4815,16-10-2024,950.61,Credit,Healthcare,154477,20617.92,Pending,South,Low,Platinum,Moderate,Other,44
+CUST4433,12-01-2025,907.15,Credit,Online Shopping,151631,12592.3,Not Started,East,Low,Platinum,Moderate,Male,33
+CUST7845,04-09-2024,3272.49,Credit,Bills,77746,22639.5,Completed,North,Low,Gold,High,Male,34
+CUST1136,06-05-2025,9470.05,Debit,Restaurants,167868,15277.27,Completed,North,Low,Gold,Moderate,Other,29
+CUST5765,06-05-2025,6646.3,Credit,Online Shopping,137470,6630.72,Completed,West,Medium,Gold,Moderate,Male,31
+CUST5723,14-04-2025,3408.68,Credit,Travel,109576,9132.49,Completed,West,Low,Platinum,Low,Male,57
+CUST2018,04-09-2024,3907.55,Debit,Online Shopping,104435,18827.1,Completed,West,Low,Platinum,High,Female,34
+CUST2454,30-07-2024,5311.08,Debit,Travel,167089,15896.14,Completed,North,Low,Platinum,High,Female,19
+CUST9647,16-04-2025,3958.82,Debit,Bills,104345,10901.86,Pending,East,Low,Silver,Low,Female,43
+CUST8326,03-04-2025,4836.88,Credit,Groceries,124075,23450.9,Pending,North,Low,Gold,Moderate,Female,60
+CUST9406,17-06-2025,4853.75,Debit,Groceries,79921,21054.23,Pending,East,Low,Platinum,Moderate,Female,69
+CUST1187,07-10-2024,9489.8,Credit,Bills,44083,4180.08,Pending,South,Medium,Silver,Moderate,Male,58
+CUST2106,16-10-2024,9750.56,Debit,Restaurants,65896,878.68,Completed,East,High,Gold,High,Male,20
+CUST2377,14-03-2025,1144.59,Debit,Travel,90878,5314.81,Pending,West,Low,Platinum,Moderate,Female,65
+CUST1981,18-01-2025,5560.21,Credit,Bills,199410,27930.22,Completed,East,Low,Platinum,Moderate,Other,38
+CUST6133,20-08-2024,1664.8,Debit,Bills,185323,21956.98,Completed,South,Low,Silver,Moderate,Other,57
+CUST7342,09-10-2024,3670.3,Credit,Restaurants,196373,4216.46,Pending,South,Low,Platinum,Low,Other,32
+CUST5850,09-06-2025,5904.82,Debit,Bills,188651,22077.85,Pending,East,Low,Silver,Low,Female,67
+CUST9801,14-10-2024,562.66,Debit,Healthcare,163199,17329.8,Completed,North,Medium,Gold,Low,Other,67
+CUST5316,16-05-2025,2136.69,Credit,Groceries,76476,901.5,Completed,South,Low,Platinum,Moderate,Male,23
+CUST1512,10-07-2025,3339.14,Credit,Travel,142707,6092.99,Pending,West,Low,Platinum,Moderate,Other,54
+CUST3665,25-01-2025,6019.07,Credit,Restaurants,109624,27794.74,Completed,West,Low,Silver,Low,Other,52
+CUST1059,10-11-2024,2351.02,Debit,Groceries,197868,24835.05,Completed,North,Low,Silver,High,Female,37
+CUST6392,13-02-2025,4337.5,Debit,Travel,152874,9135.44,Completed,East,Low,Platinum,Moderate,Female,36
+CUST1842,15-05-2025,8589.72,Debit,Healthcare,72850,29249,Completed,East,High,Silver,Moderate,Female,55
+CUST6209,02-05-2025,7186.37,Debit,Restaurants,134849,16387.34,Completed,West,Low,Silver,Moderate,Female,60
+CUST1178,05-06-2025,5132.37,Debit,Healthcare,142366,10486.69,Pending,South,Low,Platinum,Moderate,Male,27
+CUST3526,21-02-2025,7183.66,Credit,Restaurants,173054,4564.34,Completed,West,Low,Platinum,Moderate,Female,44
+CUST2001,31-07-2024,7621.98,Debit,Online Shopping,42645,18107.82,Pending,North,Low,Gold,Moderate,Male,63
+CUST7246,13-05-2025,5298.55,Debit,Bills,183785,7943.2,Completed,South,Low,Silver,Moderate,Other,44
+CUST9568,27-09-2024,8720.41,Debit,Groceries,154786,11993.92,Completed,North,Medium,Silver,High,Other,24
+CUST5432,15-12-2024,2965.2,Debit,Groceries,39228,16929.17,Completed,West,Low,Platinum,Moderate,Female,25
+CUST5760,24-09-2024,4089.81,Debit,Online Shopping,155208,29787.98,Completed,East,Low,Gold,Moderate,Other,40
+CUST3697,20-11-2024,5966.34,Credit,Travel,57264,11375.67,Pending,North,Low,Platinum,Moderate,Female,25
+CUST3891,17-06-2025,2769.51,Debit,Healthcare,34759,23141.7,Completed,East,Low,Gold,Moderate,Female,58
+CUST9844,02-05-2025,8211.65,Debit,Restaurants,190446,12165.39,Completed,East,Medium,Silver,Moderate,Other,42
+CUST2612,26-07-2024,6666.07,Debit,Restaurants,199913,11083.64,Completed,West,Low,Gold,Moderate,Female,24
+CUST7517,22-10-2024,2883.3,Debit,Entertainment,129477,8734.8,Completed,South,Low,Platinum,Low,Other,18
+CUST7297,03-07-2025,2021.09,Debit,Groceries,147606,14902.5,Completed,South,Low,Silver,Low,Other,44
+CUST8970,11-12-2024,1442.86,Debit,Entertainment,55419,4830.31,Not Started,North,Medium,Gold,Low,Other,30
+CUST8523,27-05-2025,6179.8,Debit,Entertainment,74173,9938.64,Completed,North,Low,Silver,Moderate,Other,45
+CUST2868,11-04-2025,2266.18,Credit,Online Shopping,173029,12298.54,Completed,West,Low,Platinum,Moderate,Male,18
+CUST1778,03-11-2024,6902.7,Credit,Restaurants,118877,22203.61,Pending,North,Low,Silver,Moderate,Female,34
+CUST2643,12-10-2024,7972.89,Debit,Healthcare,177308,20926.11,Completed,North,Low,Platinum,High,Male,60
+CUST1987,26-04-2025,8224.25,Debit,Restaurants,152329,21566.96,Completed,North,Low,Platinum,Moderate,Female,65
+CUST1586,30-04-2025,2900.74,Credit,Groceries,57894,17430.7,Completed,North,Low,Platinum,High,Other,34
+CUST5537,11-11-2024,8751.82,Debit,Online Shopping,118255,25147.19,Completed,South,Low,Platinum,Moderate,Female,43
+CUST4751,02-01-2025,7503.95,Debit,Bills,63354,9905.45,Not Started,East,Low,Gold,Moderate,Other,19
+CUST8727,25-09-2024,4025.26,Debit,Travel,105939,15259.4,Pending,East,Low,Platinum,Low,Other,27
+CUST8226,13-05-2025,8633.27,Debit,Travel,184203,29024.06,Pending,West,High,Gold,Moderate,Male,23
+CUST3663,17-10-2024,4728.39,Credit,Entertainment,153379,12490.94,Completed,West,Low,Platinum,Moderate,Female,60
+CUST2090,03-04-2025,3931.82,Debit,Healthcare,137968,2609.16,Completed,North,Low,Platinum,Moderate,Female,56
+CUST4210,19-12-2024,2134.24,Credit,Healthcare,89163,20264.02,Pending,West,Low,Silver,High,Female,31
+CUST1092,09-12-2024,4645.06,Credit,Entertainment,92942,3701.62,Completed,West,Low,Gold,Low,Male,18
+CUST4219,04-10-2024,7543.63,Debit,Entertainment,88087,12422.3,Completed,North,Medium,Silver,High,Female,63
+CUST6735,03-11-2024,964.24,Debit,Groceries,145638,20201.56,Completed,South,Low,Gold,Low,Male,48
+CUST3338,12-02-2025,1439.98,Debit,Travel,43005,21145.5,Pending,North,Low,Silver,Moderate,Other,45
+CUST9003,01-06-2025,6116.04,Credit,Bills,154121,18657.15,Completed,South,Low,Platinum,High,Male,23
+CUST9532,13-11-2024,259.59,Credit,Travel,103998,23801.16,Completed,North,Low,Platinum,Low,Other,37
+CUST3412,02-10-2024,3773.46,Credit,Travel,45089,24835.04,Completed,North,Low,Gold,Moderate,Male,65
+CUST8739,16-05-2025,1142.9,Debit,Groceries,74763,11726.38,Pending,East,Low,Gold,High,Female,58
+CUST8980,29-08-2024,1639,Debit,Restaurants,146852,9033.7,Completed,South,Low,Gold,Low,Male,36
+CUST7037,27-02-2025,6352.06,Debit,Groceries,102899,4341.54,Completed,East,Medium,Platinum,High,Other,20
+CUST9214,18-09-2024,5579.84,Credit,Restaurants,148637,16665.13,Completed,South,Low,Platinum,Low,Male,63
+CUST7524,02-06-2025,7004.03,Credit,Healthcare,91735,1224.1,Completed,North,Low,Gold,High,Other,57
+CUST8153,20-04-2025,7052.75,Credit,Healthcare,27329,11427.45,Completed,West,Low,Silver,Moderate,Other,61
+CUST7719,03-01-2025,4349.74,Debit,Restaurants,63717,23901.72,Completed,West,Low,Silver,Moderate,Other,69
+CUST5111,21-07-2024,1014.62,Debit,Healthcare,198675,6215.92,Completed,East,Low,Silver,High,Male,23
+CUST9121,28-07-2024,7414.72,Debit,Healthcare,128535,2395.66,Completed,East,High,Silver,Moderate,Other,23
+CUST8943,18-08-2024,695.8,Credit,Healthcare,61939,7892.34,Completed,West,Low,Silver,Low,Female,52
+CUST9113,26-11-2024,850.38,Debit,Travel,195907,9834.44,Completed,North,High,Silver,High,Male,25
+CUST8948,29-07-2024,1841.26,Credit,Healthcare,198562,7931.47,Completed,East,Low,Platinum,Moderate,Other,59
+CUST4038,03-11-2024,4403.35,Debit,Healthcare,169114,2069.56,Pending,South,Medium,Gold,Low,Other,63
+CUST5201,04-01-2025,1816.91,Debit,Healthcare,155055,28247.44,Not Started,East,Low,Platinum,Moderate,Female,63
+CUST5118,12-10-2024,8318.54,Credit,Online Shopping,154197,12225.34,Completed,South,Low,Platinum,Moderate,Female,46
+CUST1040,09-04-2025,8041.1,Credit,Restaurants,69942,22265.91,Completed,South,High,Gold,Moderate,Other,32
+CUST8510,28-01-2025,1481.71,Credit,Online Shopping,110985,23348.78,Completed,North,Medium,Platinum,Moderate,Male,37
+CUST5635,18-07-2025,9584.44,Credit,Travel,150975,25246.32,Completed,West,High,Silver,Moderate,Female,23
+CUST2720,07-07-2025,5265.29,Debit,Healthcare,181328,943.64,Pending,South,Low,Gold,Low,Other,30
+CUST4452,22-09-2024,444.42,Credit,Online Shopping,81883,14824.75,Completed,West,High,Platinum,Low,Female,19
+CUST4182,16-07-2025,7531.84,Debit,Restaurants,158668,20186.55,Completed,East,Low,Platinum,Low,Other,35
+CUST7855,12-10-2024,3481.45,Debit,Travel,60364,14815.14,Completed,East,Low,Platinum,High,Female,50
+CUST1962,05-04-2025,7260.22,Debit,Entertainment,175498,6461.51,Completed,East,Medium,Platinum,Moderate,Female,58
+CUST5428,24-06-2025,1273.24,Credit,Restaurants,95161,14951.26,Completed,South,Low,Platinum,High,Male,66
+CUST8358,07-10-2024,969.47,Credit,Online Shopping,199025,11473.87,Completed,West,Low,Platinum,Low,Female,31
+CUST1226,24-08-2024,5887.27,Credit,Entertainment,94606,9373.59,Completed,North,Medium,Gold,High,Other,49
+CUST9154,31-10-2024,2172.11,Debit,Groceries,100774,25674.01,Pending,North,Low,Gold,Low,Other,37
+CUST9495,13-02-2025,6808.67,Debit,Groceries,160021,22223.18,Pending,North,Low,Silver,Low,Male,61
+CUST8338,25-02-2025,9745.32,Credit,Healthcare,97827,27078.94,Pending,South,Low,Silver,Moderate,Female,29
+CUST1798,08-07-2025,3430.15,Debit,Online Shopping,50695,24574.45,Pending,South,Medium,Platinum,Low,Male,19
+CUST8196,14-05-2025,1274.05,Debit,Healthcare,86879,12989.47,Pending,South,Low,Silver,Moderate,Male,25
+CUST5598,11-04-2025,7311.46,Debit,Travel,31383,7608.3,Completed,South,High,Gold,Moderate,Male,54
+CUST6441,24-12-2024,6907.07,Debit,Healthcare,116776,8368.25,Pending,North,Low,Gold,Low,Other,18
+CUST3874,10-08-2024,599.79,Debit,Groceries,152869,12622.3,Completed,North,Medium,Silver,Low,Other,46
+CUST5450,12-07-2025,5200.88,Debit,Restaurants,107780,20130.47,Pending,West,Medium,Gold,Moderate,Female,63
+CUST1484,23-08-2024,8270.08,Debit,Travel,160836,29170.05,Completed,North,Low,Platinum,Low,Male,60
+CUST5575,12-02-2025,716.17,Credit,Groceries,116686,11452.98,Completed,East,Low,Silver,Moderate,Male,60
+CUST1472,18-04-2025,6720.59,Debit,Healthcare,79150,4678.35,Completed,West,Medium,Silver,Moderate,Male,67
+CUST7088,17-12-2024,2332.97,Debit,Healthcare,65712,3061.23,Completed,South,Low,Silver,Moderate,Other,21
+CUST9805,19-09-2024,4142.87,Credit,Online Shopping,179488,2845.57,Pending,North,Medium,Platinum,Low,Other,60
+CUST8343,27-11-2024,4092.13,Credit,Bills,56335,16688.52,Completed,West,Medium,Platinum,Low,Female,51
+CUST1481,26-04-2025,9432.67,Credit,Online Shopping,41448,5418.88,Completed,South,Medium,Gold,Low,Other,22
+CUST6250,04-06-2025,8013.64,Credit,Groceries,117560,17266.47,Completed,West,Medium,Silver,Low,Female,51
+CUST7725,07-01-2025,132.73,Credit,Groceries,72701,6822.81,Pending,South,High,Platinum,High,Female,23
+CUST9379,05-09-2024,3183.2,Credit,Restaurants,159337,16402.93,Pending,East,Medium,Gold,Moderate,Other,35
+CUST2074,20-03-2025,1346.18,Debit,Online Shopping,182216,14787.81,Completed,South,Medium,Silver,Moderate,Female,31
+CUST9198,03-03-2025,3822.76,Debit,Online Shopping,191442,2706.51,Not Started,East,Low,Silver,Moderate,Other,39
+CUST1351,15-09-2024,2371.94,Credit,Healthcare,160169,7635.58,Pending,East,Low,Platinum,Moderate,Other,27
+CUST3189,10-11-2024,151.64,Debit,Travel,134997,23789.05,Completed,East,Low,Silver,Moderate,Male,34
+CUST5438,30-11-2024,2673.48,Debit,Healthcare,109950,21855.77,Completed,North,Medium,Silver,High,Male,66
+CUST3278,24-12-2024,223.22,Debit,Groceries,99243,23635.88,Completed,East,Low,Platinum,Moderate,Other,46
+CUST2784,18-01-2025,5623.28,Debit,Bills,56136,25858.91,Completed,West,Low,Platinum,Low,Female,55
+CUST1696,26-09-2024,3213.18,Credit,Travel,53422,15881.15,Completed,North,Medium,Gold,Moderate,Other,33
+CUST2376,23-10-2024,511.78,Debit,Bills,43156,19274.64,Completed,North,Low,Platinum,High,Other,62
+CUST5303,17-05-2025,8183.62,Credit,Bills,71657,14263.95,Completed,East,Medium,Gold,Moderate,Male,69
+CUST4368,08-03-2025,5061.58,Debit,Online Shopping,110188,1654.96,Completed,East,Low,Gold,Moderate,Female,69
+CUST1954,22-01-2025,8829.66,Debit,Bills,86074,17997.02,Completed,East,High,Gold,Moderate,Male,50
+CUST8081,18-12-2024,4962.21,Debit,Restaurants,66202,14667.55,Pending,East,Low,Platinum,High,Female,48
+CUST7211,05-11-2024,1703.17,Credit,Entertainment,73118,25003.91,Completed,West,Low,Gold,Moderate,Female,61
+CUST3042,23-06-2025,5340.13,Debit,Restaurants,42997,17142.37,Completed,South,Low,Silver,Moderate,Male,19
+CUST4816,10-09-2024,6987.35,Debit,Entertainment,51599,18037.86,Completed,West,Medium,Gold,High,Female,27
+CUST1015,28-06-2025,2957.72,Credit,Entertainment,103259,18954.21,Pending,South,Medium,Silver,Moderate,Female,34
+CUST5695,19-02-2025,3599.78,Debit,Online Shopping,173691,16690.34,Completed,North,Low,Gold,Low,Other,42
+CUST7436,14-12-2024,505.62,Debit,Groceries,66048,18348.25,Completed,East,Low,Gold,Low,Female,34
+CUST8565,21-11-2024,8501.07,Debit,Entertainment,196325,4767.19,Completed,South,Low,Silver,Moderate,Male,65
+CUST8860,21-05-2025,1918.75,Debit,Entertainment,39157,7717.52,Pending,West,Low,Gold,Moderate,Male,69
+CUST1694,14-04-2025,7368.15,Debit,Healthcare,128657,10580.68,Completed,West,Medium,Gold,Moderate,Female,40
+CUST5718,08-07-2025,912.41,Credit,Entertainment,64807,29209.39,Completed,East,Low,Silver,Low,Female,35
+CUST5598,14-01-2025,9093.7,Debit,Travel,72586,14172.21,Completed,West,Low,Platinum,Moderate,Female,33
+CUST5102,02-01-2025,4190.51,Credit,Online Shopping,129501,11599.99,Not Started,South,Low,Gold,Moderate,Male,31
+CUST3086,25-08-2024,4731.5,Debit,Bills,100972,1115.41,Completed,West,Low,Silver,Moderate,Other,55
+CUST9495,10-07-2025,8936.91,Credit,Restaurants,53040,29604.42,Completed,West,Low,Platinum,Low,Female,22
+CUST9498,06-03-2025,6309.5,Credit,Restaurants,93094,3572.89,Completed,South,Low,Gold,High,Female,49
+CUST1898,06-02-2025,5550.77,Debit,Online Shopping,194820,12927.54,Completed,South,Medium,Gold,High,Male,41
+CUST2079,19-02-2025,9074.68,Credit,Healthcare,88203,22158.91,Pending,West,Low,Gold,Moderate,Other,32
+CUST9111,01-07-2025,2034.24,Debit,Online Shopping,28457,3204.02,Pending,East,Low,Gold,Moderate,Female,42
+CUST5710,30-11-2024,3682.06,Credit,Restaurants,87172,1204.94,Not Started,North,High,Platinum,Low,Male,66
+CUST9577,02-09-2024,1503.57,Debit,Entertainment,164831,15049.02,Completed,North,Low,Silver,Low,Female,31
+CUST2802,03-10-2024,5689.88,Credit,Groceries,115340,7999.15,Completed,North,Low,Platinum,Moderate,Female,56
+CUST1459,24-06-2025,3866.3,Credit,Entertainment,27293,10809.26,Completed,West,Low,Platinum,High,Female,27
+CUST8341,02-07-2025,1739.4,Debit,Healthcare,144009,23730.9,Completed,North,Medium,Silver,Moderate,Female,50
+CUST1218,27-01-2025,3251.48,Debit,Groceries,53866,4152.74,Completed,East,Low,Platinum,Low,Female,56
+CUST6755,21-09-2024,8287.5,Debit,Restaurants,171930,28908.88,Pending,North,Medium,Silver,Low,Male,57
+CUST3580,12-04-2025,3712.71,Debit,Restaurants,196090,19158.04,Pending,East,Low,Silver,Moderate,Female,40
+CUST4251,01-03-2025,1347.07,Credit,Restaurants,45170,15068.82,Pending,West,Low,Silver,Low,Female,20
+CUST5020,10-07-2025,5793.77,Debit,Restaurants,65198,21552.6,Completed,West,Low,Platinum,Moderate,Female,45
+CUST7244,22-09-2024,3766.96,Debit,Travel,151512,15034.3,Not Started,West,High,Silver,Moderate,Male,56
+CUST3494,05-09-2024,8839.9,Debit,Entertainment,98243,18270.87,Completed,North,Low,Platinum,Moderate,Other,19
+CUST4254,01-05-2025,4506.12,Credit,Bills,71908,13611.73,Completed,South,Medium,Gold,High,Male,18
+CUST8381,14-05-2025,3264.07,Credit,Groceries,79941,14249.37,Completed,North,Low,Silver,Moderate,Other,47
+CUST4809,25-08-2024,5128.37,Debit,Travel,130031,18008.47,Not Started,South,Medium,Gold,High,Female,39
+CUST4321,09-04-2025,2870.1,Debit,Entertainment,173709,20767.6,Not Started,West,Low,Silver,Low,Male,69
+CUST1450,20-07-2024,1346.62,Debit,Healthcare,84936,25928.5,Completed,South,Low,Platinum,Moderate,Other,29
+CUST2946,25-08-2024,4706.16,Debit,Bills,155078,16349.53,Completed,South,Low,Platinum,Moderate,Male,35
+CUST8083,26-07-2024,2531.74,Debit,Healthcare,58947,22363.16,Completed,South,Medium,Gold,Low,Other,67
+CUST6225,08-01-2025,5576.06,Debit,Groceries,26318,7156.43,Not Started,South,Low,Gold,Moderate,Other,32
+CUST8426,06-02-2025,2839.71,Credit,Restaurants,34778,7038.99,Pending,North,Low,Silver,Low,Other,58
+CUST4942,23-05-2025,1909.84,Debit,Bills,61002,19686.84,Pending,North,Low,Platinum,High,Other,45
+CUST8982,09-04-2025,7377.3,Debit,Bills,180465,13054.96,Completed,South,Low,Platinum,Moderate,Male,68
+CUST6775,15-10-2024,3811.79,Debit,Travel,160026,27462.47,Pending,East,Low,Platinum,Low,Male,57
+CUST9807,01-10-2024,440.64,Credit,Healthcare,76794,25714.91,Pending,East,Low,Platinum,Moderate,Male,39
+CUST4286,08-10-2024,3910.65,Debit,Restaurants,97365,8250.56,Completed,East,Low,Silver,High,Male,59
+CUST8812,04-10-2024,4196.42,Credit,Healthcare,70897,17122.47,Completed,South,Low,Platinum,Moderate,Other,34
+CUST7927,07-08-2024,7872.28,Debit,Restaurants,186963,21012.27,Completed,South,Low,Platinum,Moderate,Other,51
+CUST5466,07-01-2025,4489.31,Debit,Travel,130680,5065.14,Completed,West,Medium,Platinum,Moderate,Female,48
+CUST1631,28-10-2024,7876.18,Debit,Online Shopping,142919,25285.94,Pending,North,Low,Gold,Low,Other,34
+CUST2599,31-01-2025,6645.56,Debit,Bills,152039,12256.38,Pending,North,Low,Platinum,Moderate,Male,40
+CUST1742,12-12-2024,4381.12,Credit,Groceries,187016,15022.94,Completed,North,High,Gold,Moderate,Male,66
+CUST9249,09-11-2024,7662.72,Credit,Online Shopping,105887,7198.72,Completed,West,Low,Platinum,Moderate,Male,49
+CUST2261,18-03-2025,8383.22,Credit,Travel,153567,20933.33,Completed,East,Low,Silver,Low,Other,28
+CUST6408,19-01-2025,938.67,Debit,Bills,171606,27382.7,Completed,East,Low,Silver,Low,Other,65
+CUST6282,01-12-2024,425,Debit,Restaurants,185076,20976.32,Completed,North,Low,Platinum,High,Other,68
+CUST6663,26-08-2024,180.87,Debit,Online Shopping,191753,22771.56,Completed,South,Low,Gold,High,Other,28
+CUST2402,29-03-2025,4164.25,Credit,Groceries,53521,26368.74,Not Started,East,Low,Gold,Moderate,Female,59
+CUST8820,31-03-2025,9649.95,Debit,Travel,107950,9715.27,Not Started,East,Low,Gold,High,Male,36
+CUST6891,29-03-2025,6880.48,Credit,Online Shopping,87023,7284.27,Completed,South,Low,Silver,High,Other,20
+CUST6897,11-04-2025,9519.26,Credit,Travel,73199,1703.18,Pending,West,Low,Gold,Moderate,Male,25
+CUST2117,20-02-2025,5367.42,Debit,Groceries,199409,8939.79,Pending,South,Low,Platinum,Low,Other,42
+CUST1986,18-02-2025,287.67,Credit,Online Shopping,125298,5185.96,Completed,East,Low,Silver,Moderate,Male,60
+CUST6540,05-02-2025,9424.71,Debit,Restaurants,161751,10556.32,Pending,East,Low,Silver,High,Other,48
+CUST9454,09-10-2024,7189.66,Debit,Entertainment,133407,20173.95,Completed,East,Low,Silver,Moderate,Other,56
+CUST7652,11-07-2025,992.89,Credit,Groceries,128858,10767.43,Completed,East,Low,Silver,Moderate,Female,52
+CUST6346,18-06-2025,2591.21,Debit,Travel,132744,18571.41,Pending,East,Low,Gold,Moderate,Male,58
+CUST8435,30-07-2024,3919.19,Debit,Restaurants,124944,11934.98,Completed,North,Low,Platinum,Moderate,Other,66
+CUST3164,18-05-2025,2450.36,Credit,Bills,92571,8858.37,Completed,South,Low,Silver,Low,Other,43
+CUST3647,09-07-2025,9485.47,Debit,Healthcare,175539,27432.31,Completed,South,Low,Silver,Low,Male,19
+CUST1935,25-01-2025,9218.45,Debit,Restaurants,174340,13742.62,Pending,West,Low,Platinum,High,Female,36
+CUST8998,13-12-2024,5547.78,Credit,Bills,158915,4965.91,Pending,West,Low,Silver,High,Female,30
+CUST2797,26-06-2025,2172.41,Debit,Bills,110100,11258.01,Completed,South,Low,Silver,Low,Male,30
+CUST9245,15-09-2024,6645.28,Credit,Travel,30392,12315.25,Completed,East,Medium,Gold,Low,Female,52
+CUST7104,29-11-2024,4646.62,Debit,Entertainment,25321,15541.82,Completed,South,Low,Silver,High,Other,36
+CUST3130,17-10-2024,4067.6,Credit,Entertainment,100493,9565.28,Pending,West,Low,Silver,Low,Male,57
+CUST7858,01-12-2024,7419.78,Debit,Groceries,113398,11840.82,Completed,East,Medium,Gold,Moderate,Other,56
+CUST2705,17-06-2025,8246.53,Credit,Online Shopping,67621,19835.16,Completed,South,Low,Silver,Low,Female,50
+CUST9686,18-07-2025,4703.01,Credit,Healthcare,60457,14469.68,Pending,West,Low,Silver,Low,Male,50
+CUST7890,22-11-2024,416.69,Debit,Restaurants,49784,21468.03,Pending,West,Medium,Platinum,Low,Other,31
+CUST4963,09-01-2025,437.61,Credit,Online Shopping,190428,15224.6,Completed,East,Medium,Gold,Low,Male,47
+CUST8391,05-02-2025,6878.54,Debit,Restaurants,161644,23089.77,Pending,East,Low,Platinum,Moderate,Female,46
+CUST3047,12-07-2025,7630.33,Debit,Groceries,41404,3189.82,Pending,North,Medium,Platinum,Low,Male,58
+CUST1200,28-10-2024,6552.98,Debit,Healthcare,167261,23802.73,Completed,West,Low,Platinum,High,Female,47
+CUST4041,27-03-2025,2114.9,Credit,Entertainment,137296,27307.16,Completed,South,High,Silver,Moderate,Male,45
+CUST7256,06-01-2025,4742.24,Debit,Online Shopping,105840,3655.19,Completed,West,Medium,Silver,Moderate,Female,38
+CUST2548,14-02-2025,6955.8,Credit,Travel,150922,13355.68,Completed,South,Low,Silver,High,Female,18
+CUST5796,25-08-2024,3801.97,Debit,Healthcare,103519,22967.49,Pending,South,High,Gold,Moderate,Female,53
+CUST7386,31-12-2024,2768.47,Debit,Travel,146937,4640.62,Completed,West,Low,Gold,High,Other,58
+CUST3098,01-10-2024,9925.86,Debit,Healthcare,132130,11474.93,Completed,West,Low,Silver,Moderate,Male,27
+CUST2941,14-12-2024,4427.25,Debit,Healthcare,60765,14445.55,Completed,South,Medium,Silver,Low,Other,55
+CUST7178,26-02-2025,7483.11,Debit,Travel,97382,3341,Pending,West,Low,Platinum,Moderate,Other,18
+CUST5905,03-01-2025,7623,Credit,Healthcare,185884,16587.04,Completed,East,Low,Silver,Low,Female,22
+CUST4181,31-12-2024,3587.49,Debit,Entertainment,48604,5945.15,Completed,South,Low,Platinum,Moderate,Male,45
+CUST7039,04-10-2024,2552.47,Debit,Entertainment,129875,18357.85,Completed,South,Low,Platinum,Moderate,Other,63
+CUST4037,16-03-2025,3641.9,Credit,Travel,176844,18700.02,Completed,East,Medium,Platinum,Moderate,Male,62
+CUST7367,27-05-2025,8469.84,Credit,Entertainment,116871,17080.12,Completed,East,Low,Silver,Low,Male,39
+CUST2395,28-11-2024,5167.1,Credit,Healthcare,173559,10806.92,Pending,East,Low,Silver,Low,Male,45
+CUST2607,19-05-2025,3323.09,Credit,Restaurants,157250,26333.93,Completed,South,Medium,Platinum,Moderate,Female,48
+CUST3644,03-06-2025,3841.34,Debit,Entertainment,147270,15155.47,Not Started,East,Medium,Silver,Low,Male,54
+CUST6435,15-04-2025,3590.36,Debit,Travel,143469,22472.51,Completed,East,Low,Silver,High,Female,48
+CUST6476,30-10-2024,8354.01,Debit,Groceries,137260,1139.38,Completed,North,Low,Platinum,Low,Female,50
+CUST6102,03-09-2024,3408.15,Debit,Healthcare,130464,7518.03,Not Started,North,Low,Silver,Moderate,Female,25
+CUST4765,14-08-2024,4520.99,Debit,Restaurants,103553,24440.4,Completed,South,Low,Gold,Moderate,Female,38
+CUST5847,28-02-2025,8585.4,Credit,Bills,186545,27355.78,Not Started,South,Medium,Silver,Moderate,Other,54
+CUST2776,04-11-2024,3636.73,Debit,Bills,174008,11073.4,Completed,North,Low,Gold,Moderate,Other,44
+CUST3257,05-01-2025,953.24,Credit,Healthcare,86292,25653.34,Completed,East,Low,Platinum,Moderate,Female,51
+CUST8885,01-06-2025,3301.34,Credit,Bills,174619,25955.65,Completed,North,Low,Gold,High,Other,49
+CUST4518,18-06-2025,8926.46,Credit,Groceries,165597,15427.09,Completed,East,Medium,Silver,Low,Other,23
+CUST6639,21-02-2025,7426.81,Credit,Groceries,160114,7960.3,Pending,East,Low,Gold,Moderate,Male,41
+CUST7904,04-05-2025,1498.56,Credit,Travel,82490,14727.54,Completed,West,Low,Gold,Low,Other,34
+CUST2098,05-01-2025,7062.71,Debit,Bills,183450,24482.44,Pending,North,Low,Gold,Low,Female,58
+CUST2600,20-01-2025,3988.19,Credit,Travel,35149,16142.39,Completed,North,Low,Gold,Moderate,Male,21
+CUST6441,04-12-2024,5858.54,Credit,Healthcare,113044,26949.43,Completed,West,Low,Gold,High,Female,37
+CUST9578,23-01-2025,7020.14,Debit,Online Shopping,82161,18201.47,Not Started,North,Low,Silver,Low,Other,40
+CUST3684,28-04-2025,5765.72,Debit,Restaurants,173298,5631.17,Completed,East,Medium,Gold,Moderate,Female,42
+CUST3156,28-05-2025,160.95,Credit,Travel,133387,9458.56,Completed,West,Medium,Gold,Moderate,Female,34
+CUST8543,18-02-2025,1278.42,Credit,Online Shopping,169744,17026.94,Pending,South,Low,Platinum,Low,Male,59
+CUST5356,23-01-2025,1914.99,Credit,Online Shopping,95922,7931.92,Pending,East,High,Platinum,Moderate,Other,61
+CUST7576,06-10-2024,3958.93,Credit,Groceries,138210,25959.82,Completed,North,Low,Gold,Moderate,Other,66
+CUST2933,20-11-2024,5370.39,Credit,Entertainment,85467,22098.08,Pending,East,Low,Platinum,Moderate,Female,66
+CUST2559,04-08-2024,1942.75,Debit,Online Shopping,142384,21867.09,Pending,West,Low,Platinum,High,Female,50
+CUST8028,22-06-2025,1229.39,Debit,Restaurants,63071,22448.39,Completed,East,Medium,Platinum,Moderate,Other,23
+CUST5299,29-12-2024,8204.89,Debit,Restaurants,43602,10695.64,Completed,East,Medium,Silver,Low,Male,48
+CUST7702,30-07-2024,4108.53,Credit,Bills,161640,18712.75,Completed,North,High,Platinum,Low,Female,30
+CUST1558,02-10-2024,7651.03,Debit,Entertainment,80812,12141.67,Pending,North,Low,Silver,Moderate,Other,38
+CUST5516,18-06-2025,8395.52,Debit,Bills,88907,11403.47,Completed,West,Medium,Gold,Moderate,Female,21
+CUST1269,26-11-2024,8020.12,Debit,Groceries,68741,3301.19,Completed,South,High,Gold,Moderate,Female,24
+CUST6680,20-05-2025,2828.25,Credit,Restaurants,130868,14172.46,Pending,South,Low,Gold,Moderate,Female,59
+CUST4069,11-09-2024,2462.5,Debit,Entertainment,62833,3587,Pending,East,Low,Gold,Low,Other,33
+CUST3490,26-01-2025,1477.66,Credit,Entertainment,126786,17016.29,Completed,East,Low,Platinum,Low,Male,64
+CUST6989,17-12-2024,8264.46,Debit,Entertainment,139178,18444.11,Pending,North,Low,Platinum,High,Other,49
+CUST9113,27-09-2024,3162.78,Debit,Entertainment,89213,29490.69,Completed,North,Low,Gold,Moderate,Female,68
+CUST4908,12-03-2025,6000.08,Credit,Restaurants,130038,16761.22,Pending,West,Low,Platinum,Moderate,Female,50
+CUST5665,20-08-2024,4721.76,Debit,Restaurants,97051,17292.39,Pending,North,Low,Gold,Moderate,Female,49
+CUST3054,10-06-2025,719.51,Debit,Groceries,99785,13186.23,Completed,West,Low,Platinum,Low,Male,62
+CUST4176,30-06-2025,7483.68,Debit,Groceries,74514,29204.01,Pending,West,Medium,Platinum,Moderate,Other,68
+CUST4439,12-11-2024,289.47,Debit,Healthcare,64775,28028.32,Completed,North,Low,Platinum,Low,Female,23
+CUST7677,08-08-2024,884.84,Credit,Travel,76290,19240.8,Completed,East,Low,Platinum,Low,Other,30
+CUST5611,12-01-2025,9375.64,Debit,Healthcare,27002,18076.2,Pending,South,Medium,Gold,Moderate,Other,47
+CUST9330,23-04-2025,3460.58,Credit,Bills,76434,17199.67,Completed,East,Low,Silver,Moderate,Female,35
+CUST4042,05-10-2024,9297.42,Credit,Healthcare,140968,24525.54,Completed,South,Low,Platinum,Moderate,Other,28
+CUST9511,22-02-2025,8314.49,Credit,Restaurants,78458,20561.05,Completed,South,Low,Gold,High,Male,60
+CUST9214,03-04-2025,3791.21,Credit,Travel,157383,1088.6,Not Started,South,Medium,Gold,Low,Other,39
+CUST5500,07-12-2024,1487.32,Debit,Restaurants,81055,1729.77,Pending,West,Low,Gold,Moderate,Male,21
+CUST1341,27-01-2025,2918.47,Debit,Bills,95165,18008.98,Completed,East,Medium,Platinum,High,Female,23
+CUST9444,20-09-2024,4950.86,Debit,Travel,80871,21861.57,Completed,North,Low,Gold,Moderate,Male,45
+CUST1534,24-12-2024,7293.84,Credit,Restaurants,195489,18087.64,Completed,East,Low,Silver,Low,Male,57
+CUST9002,17-08-2024,3139.02,Credit,Bills,71289,15146.17,Completed,South,High,Silver,Moderate,Male,44
+CUST4069,22-08-2024,2186.59,Credit,Travel,176194,18891.23,Not Started,South,Medium,Gold,Low,Male,45
+CUST2986,02-06-2025,523.42,Debit,Healthcare,53000,26501.94,Completed,East,Low,Gold,Moderate,Female,39
+CUST9749,09-07-2025,5015.67,Credit,Healthcare,88407,8691.37,Completed,West,Low,Silver,Low,Female,61
+CUST6564,07-06-2025,9051.65,Credit,Bills,78083,18318.1,Completed,North,Low,Platinum,Moderate,Other,30
+CUST4646,12-05-2025,782.12,Debit,Healthcare,151557,2033.85,Completed,West,Low,Gold,Moderate,Male,26
+CUST6198,13-07-2025,6688.85,Credit,Healthcare,71500,8035.52,Completed,South,Low,Gold,Low,Other,23
+CUST7763,23-05-2025,4135.46,Credit,Entertainment,93482,29294.68,Not Started,North,Low,Silver,High,Male,50
+CUST2983,25-05-2025,6343.86,Credit,Online Shopping,47401,13097.23,Completed,West,Low,Platinum,Low,Male,61
+CUST1699,07-11-2024,9815.17,Credit,Healthcare,133679,18672.3,Pending,West,Low,Gold,High,Female,37
+CUST5474,01-04-2025,9369.2,Credit,Healthcare,141128,9642.22,Completed,South,Low,Silver,High,Male,41
+CUST4774,10-07-2025,884.12,Debit,Online Shopping,102272,16495.24,Completed,North,Low,Platinum,Moderate,Female,25
+CUST4587,22-09-2024,5965.47,Debit,Travel,100731,15623.3,Completed,South,Medium,Silver,Moderate,Male,54
+CUST5796,31-05-2025,5001.16,Debit,Bills,38607,14912.11,Pending,South,Low,Silver,Low,Male,49
+CUST2197,05-11-2024,3714.18,Debit,Groceries,54272,29952.06,Pending,South,Low,Gold,Moderate,Other,20
+CUST3156,20-01-2025,3812.38,Credit,Entertainment,151713,1091.33,Completed,South,Low,Silver,Low,Male,61
+CUST6113,14-08-2024,8680.38,Credit,Entertainment,97370,3085.83,Completed,East,Medium,Silver,Low,Male,33
+CUST9890,24-11-2024,2591.52,Credit,Entertainment,131874,25902.99,Completed,South,High,Platinum,Low,Female,37
+CUST9531,28-08-2024,4069.22,Credit,Online Shopping,144174,7723.83,Completed,West,Low,Platinum,High,Male,18
+CUST9918,11-05-2025,4148.13,Debit,Entertainment,187770,8376.87,Completed,East,High,Platinum,High,Female,28
+CUST3172,21-04-2025,6350.98,Credit,Entertainment,136389,20468.65,Completed,East,Low,Silver,Low,Other,30
+CUST8631,29-08-2024,6067.63,Debit,Travel,184115,19917.83,Completed,North,Low,Gold,Moderate,Male,19
+CUST6106,02-07-2025,1523.34,Credit,Groceries,112713,13755.01,Pending,North,Low,Platinum,Low,Female,20
+CUST9846,16-06-2025,181.26,Credit,Groceries,25932,6528.75,Completed,West,Low,Gold,Moderate,Other,50
+CUST5748,12-04-2025,2635.04,Debit,Online Shopping,155979,17453.9,Completed,South,Low,Silver,High,Other,35
+CUST4995,07-04-2025,9744.53,Credit,Travel,192586,20955.9,Completed,South,Low,Silver,Low,Other,50
+CUST1313,11-05-2025,4618,Credit,Restaurants,79014,18878.01,Completed,East,Low,Gold,Moderate,Other,62
+CUST5847,02-11-2024,9795.33,Debit,Online Shopping,83353,11202.62,Completed,West,Medium,Gold,High,Male,56
+CUST3661,01-02-2025,1979.61,Debit,Entertainment,94611,20773.64,Completed,South,Low,Silver,Moderate,Male,29
+CUST6543,08-03-2025,5484.28,Debit,Travel,40255,1130.61,Not Started,West,Medium,Silver,Low,Female,22
+CUST4154,27-03-2025,4365.81,Debit,Online Shopping,135059,11715.23,Completed,South,Low,Platinum,High,Female,46
+CUST9586,16-01-2025,4234.95,Credit,Entertainment,103844,11049.71,Completed,West,Low,Platinum,Low,Female,35
+CUST1257,04-05-2025,9734.16,Debit,Bills,79879,2549.57,Pending,North,Low,Platinum,Low,Other,22
+CUST3564,11-08-2024,6885.58,Credit,Healthcare,104783,12742.29,Pending,West,Low,Silver,Moderate,Female,46
+CUST3749,19-03-2025,2200.99,Debit,Entertainment,177259,12751.74,Completed,East,Low,Silver,Moderate,Other,45
+CUST5998,07-03-2025,6286.64,Debit,Restaurants,155118,10291.75,Completed,West,Low,Silver,High,Female,65
+CUST1523,27-10-2024,6074.26,Credit,Groceries,195979,20066.77,Pending,South,Low,Gold,Moderate,Male,35
+CUST8159,20-07-2024,6218.26,Debit,Bills,118850,6525.45,Not Started,East,Low,Gold,Moderate,Male,49
+CUST8726,21-02-2025,2899.53,Debit,Restaurants,98294,6798.38,Completed,North,Low,Silver,Moderate,Male,37
+CUST7122,09-09-2024,3879.12,Credit,Online Shopping,118815,7523.74,Pending,South,Low,Silver,Moderate,Other,64
+CUST3295,19-11-2024,6124.78,Credit,Groceries,92878,3745.47,Not Started,South,Medium,Platinum,Moderate,Other,61
+CUST3731,05-03-2025,2778.81,Credit,Groceries,76041,18479.63,Pending,East,Low,Gold,Moderate,Male,49
+CUST6207,18-10-2024,6222.39,Debit,Online Shopping,54954,9425.25,Not Started,South,Low,Platinum,High,Other,29
+CUST5636,25-03-2025,3119.65,Debit,Healthcare,58555,7472.55,Completed,East,Low,Platinum,Low,Female,41
+CUST5607,27-02-2025,1954.68,Debit,Entertainment,74297,21734.39,Pending,West,High,Platinum,Low,Female,61
+CUST7603,28-05-2025,6138.89,Debit,Travel,135670,29149.13,Not Started,North,Low,Silver,Moderate,Other,29
+CUST6782,21-02-2025,2172.29,Debit,Restaurants,194877,667.97,Pending,South,Low,Gold,Low,Male,53
+CUST8592,18-04-2025,4411.39,Debit,Groceries,119899,28289.71,Completed,North,Low,Gold,Low,Female,53
+CUST5697,12-07-2025,8742.88,Credit,Restaurants,68624,9310.64,Pending,East,Low,Gold,Moderate,Other,53
+CUST3556,02-05-2025,2138.05,Debit,Groceries,119420,6120.92,Completed,East,Medium,Silver,High,Female,37
+CUST5517,03-10-2024,2842.52,Credit,Entertainment,186716,3845.75,Not Started,East,Medium,Silver,Low,Other,58
+CUST4112,18-10-2024,3246.91,Credit,Online Shopping,95314,27942.9,Completed,South,Medium,Gold,Moderate,Female,43
+CUST6519,24-07-2024,8530.33,Debit,Restaurants,137260,20119.61,Completed,East,Low,Gold,Moderate,Male,61
+CUST6595,23-11-2024,7306.4,Credit,Entertainment,187813,6688.89,Completed,West,Low,Silver,Moderate,Female,39
+CUST2866,07-11-2024,976.48,Credit,Travel,175968,20222.32,Completed,East,Low,Silver,Moderate,Other,53
+CUST5872,31-10-2024,5761.85,Debit,Healthcare,175008,2794.87,Completed,West,Medium,Gold,High,Other,49
+CUST9659,04-06-2025,5788.26,Credit,Restaurants,53806,16449.97,Pending,West,Low,Silver,Low,Male,19
+CUST2860,07-04-2025,7136.15,Credit,Online Shopping,37514,6324.23,Completed,North,Low,Silver,Moderate,Male,38
+CUST6769,16-11-2024,8230.66,Debit,Entertainment,63090,2160.49,Completed,West,Medium,Silver,Moderate,Female,37
+CUST3603,04-12-2024,2289.63,Credit,Travel,123391,3326.28,Not Started,West,Low,Gold,Moderate,Other,27
+CUST1485,02-04-2025,5167.3,Debit,Restaurants,176622,16844.03,Completed,North,Low,Platinum,Low,Female,54
+CUST4349,06-11-2024,8965.03,Credit,Entertainment,51309,16125.48,Not Started,East,High,Gold,Moderate,Other,56
+CUST2176,24-08-2024,9412,Credit,Healthcare,192731,1476.65,Not Started,South,Low,Platinum,High,Female,54
+CUST9408,11-02-2025,1984.48,Credit,Bills,105316,22505.43,Pending,East,Low,Gold,Moderate,Female,58
+CUST2727,05-09-2024,5323.47,Debit,Online Shopping,124816,24849.08,Completed,West,Medium,Gold,Moderate,Other,64
+CUST2877,06-03-2025,3396.85,Debit,Healthcare,110214,26626.24,Pending,South,Medium,Platinum,Moderate,Other,45
+CUST4089,06-07-2025,1931.97,Credit,Travel,191707,25817.89,Completed,North,Low,Platinum,Moderate,Other,19
+CUST1530,17-06-2025,1264.04,Debit,Bills,95043,3115.83,Completed,West,Low,Silver,Moderate,Male,21
+CUST8091,16-02-2025,2976.87,Credit,Entertainment,78193,23101.63,Completed,South,Low,Platinum,Low,Female,29
+CUST3638,24-07-2024,8742.59,Debit,Travel,105116,23849.44,Completed,North,Low,Gold,High,Male,20
+CUST7248,05-11-2024,3492.87,Debit,Travel,179626,26617.8,Pending,South,Low,Gold,Moderate,Female,68
+CUST6978,07-06-2025,7426.71,Debit,Healthcare,93096,26847.73,Pending,West,Low,Gold,High,Female,30
+CUST6207,12-02-2025,5395.26,Credit,Online Shopping,111736,9534.39,Completed,South,Low,Silver,Moderate,Female,50
+CUST5242,07-01-2025,3246.04,Credit,Groceries,151568,14768.17,Completed,East,Low,Gold,Moderate,Male,39
+CUST7339,01-03-2025,6074.55,Credit,Groceries,90320,2665.58,Not Started,North,Low,Silver,Moderate,Female,25
+CUST7660,02-10-2024,5318.02,Credit,Restaurants,43841,3585.99,Completed,North,Low,Gold,Moderate,Male,49
+CUST6065,12-09-2024,1789.89,Debit,Travel,100993,15092.94,Completed,East,Medium,Silver,Low,Other,60
+CUST1923,30-10-2024,2230.03,Debit,Entertainment,57385,15984.84,Completed,East,Medium,Silver,Moderate,Female,44
+CUST9713,08-05-2025,9724.35,Debit,Travel,179729,13459.08,Completed,North,Low,Silver,High,Other,53
+CUST4593,01-08-2024,4331.52,Credit,Groceries,39976,8956.08,Completed,East,Low,Silver,Moderate,Female,27
+CUST8410,28-06-2025,1126.48,Debit,Healthcare,102941,5653.61,Completed,East,Low,Platinum,Low,Female,49
+CUST2075,10-11-2024,4185.16,Credit,Entertainment,156143,12704.41,Completed,North,Low,Silver,Moderate,Female,51
+CUST5375,08-09-2024,5183.94,Debit,Entertainment,126600,1904.63,Completed,North,Low,Silver,Low,Female,52
+CUST4372,30-09-2024,6351.88,Debit,Online Shopping,188589,7127.07,Pending,South,Low,Silver,Low,Other,37
+CUST6884,28-12-2024,9502.88,Credit,Groceries,133259,27188.67,Completed,South,Low,Silver,Low,Other,63
+CUST7932,29-09-2024,4842.02,Credit,Travel,184730,9721.88,Not Started,North,Low,Platinum,Low,Other,24
+CUST5869,07-02-2025,7368.92,Credit,Online Shopping,70064,24677.87,Pending,South,Low,Platinum,High,Other,34
+CUST1189,16-12-2024,568.1,Credit,Travel,62435,26513.02,Pending,West,Medium,Gold,Low,Female,35
+CUST4613,03-01-2025,6472.65,Debit,Travel,161938,1162.15,Pending,West,Low,Platinum,Moderate,Male,41
+CUST4535,01-12-2024,5296.83,Credit,Travel,159856,19766.44,Completed,South,Low,Platinum,Moderate,Male,63
+CUST5073,16-07-2025,9315.84,Credit,Restaurants,114152,17317.98,Completed,North,Medium,Gold,Low,Other,63
+CUST9547,22-04-2025,5568.09,Credit,Restaurants,32656,16774.08,Pending,South,Low,Silver,Moderate,Male,21
+CUST2604,03-11-2024,5954.35,Credit,Online Shopping,137388,16773.64,Completed,West,Low,Platinum,Low,Female,35
+CUST9285,01-10-2024,6589.83,Debit,Entertainment,27659,22267.04,Completed,East,Low,Silver,Moderate,Male,51
+CUST1781,22-09-2024,8640.93,Credit,Travel,121711,5201.67,Pending,West,High,Gold,High,Male,36
+CUST7440,19-04-2025,6282.62,Credit,Entertainment,86316,14449.19,Completed,South,Low,Gold,Moderate,Other,47
+CUST5713,08-04-2025,8945.52,Credit,Entertainment,149693,24090.14,Completed,East,Low,Silver,Low,Female,46
+CUST6195,19-03-2025,1084.77,Credit,Travel,36836,28300.14,Pending,North,Low,Platinum,Moderate,Other,30
+CUST8527,17-06-2025,4740.39,Debit,Bills,43360,22940.23,Not Started,South,Low,Gold,Moderate,Female,66
+CUST9213,23-05-2025,4265.09,Debit,Entertainment,83921,13467.71,Completed,North,High,Platinum,Moderate,Female,36
+CUST5794,10-02-2025,8978.78,Credit,Healthcare,29576,9212.06,Pending,East,Low,Gold,High,Female,20
+CUST8535,30-07-2024,403.42,Credit,Entertainment,129831,22597.21,Completed,East,Medium,Gold,Low,Female,20
+CUST6107,08-08-2024,235.58,Debit,Bills,197990,10751.61,Completed,West,Low,Platinum,Low,Female,40
+CUST5764,21-02-2025,2012.12,Debit,Bills,137915,6525.08,Completed,North,Low,Gold,Low,Male,33
+CUST8135,10-09-2024,2972.23,Credit,Bills,151288,18383.77,Completed,West,Low,Gold,Low,Male,20
+CUST1751,04-08-2024,5052.02,Credit,Healthcare,168114,28735.44,Completed,West,Low,Gold,Low,Male,31
+CUST8156,22-05-2025,7045.75,Credit,Online Shopping,69218,17615.47,Not Started,North,Low,Gold,Moderate,Other,30
+CUST7458,31-03-2025,3750.38,Debit,Travel,74593,28584.24,Completed,South,Low,Platinum,Low,Female,18
+CUST7984,06-07-2025,7407.28,Credit,Restaurants,141212,13121.89,Completed,North,Low,Gold,Low,Other,27
+CUST9765,25-02-2025,8563.2,Credit,Groceries,50570,11618.1,Pending,West,Low,Gold,High,Male,35
+CUST9780,02-10-2024,3637.44,Debit,Online Shopping,173834,13025.86,Completed,East,Low,Silver,Moderate,Other,42
+CUST4626,26-10-2024,8329.51,Credit,Bills,81550,1499.67,Pending,West,Low,Platinum,Low,Male,40
+CUST2242,15-05-2025,6140.65,Debit,Bills,56695,28784.07,Completed,West,Low,Silver,Low,Other,21
+CUST3553,15-10-2024,4296.73,Debit,Healthcare,31462,10111.58,Completed,East,Low,Silver,High,Male,66
+CUST7587,23-06-2025,4135.52,Credit,Online Shopping,137881,18951.9,Completed,North,Medium,Platinum,Moderate,Female,57
+CUST3597,17-09-2024,7882.9,Debit,Bills,172555,15613.35,Completed,North,Low,Platinum,Low,Male,35
+CUST5371,25-06-2025,1637.52,Credit,Bills,134420,13171.59,Pending,South,Low,Gold,Moderate,Other,30
+CUST2936,22-12-2024,9085.48,Debit,Online Shopping,159045,12554.11,Completed,East,Low,Silver,Moderate,Other,65
+CUST5350,17-11-2024,4756.6,Credit,Travel,51527,23426.24,Pending,West,Medium,Platinum,High,Male,38
+CUST8906,05-06-2025,5803.36,Debit,Restaurants,122646,27173.06,Completed,North,Low,Gold,High,Female,21
+CUST1254,12-09-2024,1604.1,Debit,Restaurants,103188,25296.4,Completed,North,Low,Silver,Low,Female,60
+CUST4339,31-03-2025,9258.15,Credit,Online Shopping,53934,12940.77,Completed,North,Low,Silver,Moderate,Male,55
+CUST3224,08-04-2025,229.72,Credit,Healthcare,56096,11657.43,Completed,North,Low,Platinum,Moderate,Male,30
+CUST1561,17-07-2025,2085.76,Debit,Healthcare,106033,16454.89,Completed,East,Low,Platinum,High,Male,44
+CUST6902,29-12-2024,1637.06,Debit,Online Shopping,165952,20414.25,Not Started,West,Low,Gold,Low,Male,40
+CUST8698,25-07-2024,2095.7,Credit,Travel,82223,669.87,Completed,North,Medium,Silver,High,Female,27
+CUST6174,06-11-2024,9322.9,Debit,Healthcare,35261,21934.61,Completed,East,Low,Silver,Low,Other,67
+CUST6892,01-04-2025,9880.08,Debit,Travel,175928,7267.54,Pending,West,Medium,Platinum,High,Other,36
+CUST1795,27-11-2024,1697.54,Debit,Groceries,178477,18110.71,Not Started,South,Medium,Platinum,Moderate,Male,52
+CUST7535,15-10-2024,8895.16,Credit,Restaurants,128301,18156.7,Completed,West,Medium,Silver,Low,Female,64
+CUST2472,14-04-2025,5969.27,Debit,Groceries,137367,6677.22,Not Started,West,Low,Platinum,Moderate,Other,53
+CUST7566,31-10-2024,1673.51,Credit,Travel,113732,23267.25,Completed,West,Low,Platinum,Moderate,Other,53
+CUST9857,17-03-2025,2765.89,Credit,Online Shopping,174087,14365.98,Completed,North,Low,Platinum,Low,Other,32
+CUST3508,24-02-2025,5236.21,Debit,Travel,31957,3876.32,Completed,South,Low,Platinum,Low,Female,53
+CUST3396,03-04-2025,6807.25,Debit,Entertainment,83607,12737.77,Completed,East,Low,Silver,Low,Other,34
+CUST7696,03-04-2025,3259.88,Credit,Healthcare,184661,4136.24,Not Started,West,Low,Silver,Low,Other,65
+CUST5260,13-02-2025,253.23,Credit,Travel,47590,29749.8,Completed,West,Low,Silver,Low,Female,56
+CUST4260,20-07-2024,3788.16,Debit,Restaurants,29778,15302.61,Completed,West,Low,Silver,Moderate,Male,20
+CUST2770,21-09-2024,7956.31,Debit,Bills,135418,25776.99,Completed,North,Low,Gold,Low,Other,19
+CUST5702,22-06-2025,6252.03,Credit,Travel,153639,20721.14,Pending,North,Low,Silver,Moderate,Female,45
+CUST9331,08-08-2024,9691.68,Debit,Healthcare,80159,9202.03,Completed,West,Medium,Platinum,Low,Male,22
+CUST3768,04-09-2024,8604.9,Credit,Bills,153083,28163.52,Completed,West,Low,Silver,Moderate,Female,42
+CUST6099,07-07-2025,8657.8,Debit,Groceries,37674,17938.63,Pending,South,Low,Platinum,Moderate,Other,42
+CUST1124,28-04-2025,6417.1,Credit,Online Shopping,88781,11702.78,Completed,North,Low,Gold,High,Male,34
+CUST8230,04-09-2024,583.71,Debit,Restaurants,54690,20930.62,Completed,North,Low,Silver,Moderate,Male,26
+CUST1056,29-12-2024,3312.79,Credit,Restaurants,159533,26551.94,Completed,North,Low,Silver,Low,Male,55
+CUST2537,19-08-2024,5395.83,Debit,Travel,75619,26176.83,Completed,East,Low,Gold,Moderate,Female,51
+CUST6001,27-03-2025,9636.82,Credit,Travel,52639,1765.08,Pending,West,Medium,Silver,Moderate,Other,34
+CUST3866,31-03-2025,9295.81,Credit,Online Shopping,99378,24130.33,Completed,West,Medium,Gold,Moderate,Female,50
+CUST7252,30-03-2025,3918.86,Credit,Healthcare,133262,29613.21,Completed,East,Medium,Platinum,Moderate,Male,32
+CUST8415,19-03-2025,8238.26,Debit,Restaurants,184795,20954.59,Completed,North,Low,Gold,Moderate,Other,51
+CUST8920,11-09-2024,4519.66,Debit,Travel,69611,7036.2,Pending,East,Medium,Platinum,Low,Female,19
+CUST5821,10-09-2024,5003.08,Debit,Restaurants,67134,29368.31,Completed,East,Medium,Silver,Low,Male,46
+CUST9262,24-11-2024,426.85,Debit,Groceries,68723,28202.35,Completed,South,Low,Gold,Moderate,Other,34
+CUST2642,01-04-2025,6504.68,Debit,Healthcare,63164,25186.43,Pending,North,High,Silver,Moderate,Other,40
+CUST7184,15-07-2025,8822.62,Debit,Bills,86385,28743.32,Completed,West,Low,Gold,Moderate,Other,24
+CUST6877,25-07-2024,280.53,Credit,Travel,109494,28889.19,Completed,North,Medium,Gold,Low,Other,48
+CUST3725,21-07-2024,7894.86,Debit,Healthcare,154168,14433.77,Not Started,East,Medium,Gold,Moderate,Other,55
+CUST8501,28-09-2024,6665.78,Credit,Healthcare,166990,26548.46,Completed,West,Low,Platinum,Moderate,Female,33
+CUST2874,07-08-2024,4440.23,Credit,Healthcare,128455,28195.11,Completed,East,Low,Gold,Moderate,Female,57
+CUST5463,02-01-2025,7664.02,Credit,Travel,77868,12615.33,Not Started,South,Low,Gold,Low,Other,36
+CUST2396,09-03-2025,886.46,Credit,Online Shopping,181337,13273.1,Completed,South,Low,Silver,Moderate,Male,26
+CUST8651,29-09-2024,918.93,Credit,Entertainment,100076,4939.31,Pending,East,Medium,Silver,High,Other,52
+CUST6947,02-06-2025,5108.59,Credit,Travel,40056,17920.49,Pending,East,Low,Silver,Moderate,Female,64
+CUST2866,25-05-2025,8512.97,Debit,Restaurants,121078,11834.1,Pending,East,Low,Gold,Moderate,Male,58
+CUST1706,30-11-2024,8636.88,Debit,Entertainment,140176,13178.79,Completed,East,Medium,Silver,Low,Male,54
+CUST6482,31-01-2025,313.59,Debit,Entertainment,184384,7011.71,Completed,West,Medium,Silver,Moderate,Male,66
+CUST2527,21-06-2025,5456.07,Credit,Online Shopping,93254,28735.58,Pending,South,Low,Silver,High,Other,49
+CUST8511,24-11-2024,106.99,Debit,Restaurants,66139,2547.88,Not Started,North,Low,Gold,Moderate,Female,22
+CUST3043,17-07-2025,8138.52,Debit,Bills,103199,17315.74,Completed,West,Low,Platinum,High,Female,32
+CUST1346,04-03-2025,1137.04,Debit,Online Shopping,27112,4891.27,Completed,North,Low,Silver,Low,Male,42
+CUST2447,16-05-2025,8383.37,Debit,Healthcare,170523,29340.97,Completed,South,High,Silver,Moderate,Male,18
+CUST8133,05-01-2025,7260.03,Debit,Online Shopping,68807,29009.75,Pending,East,Low,Silver,Moderate,Female,56
+CUST8329,04-04-2025,255.06,Debit,Healthcare,100546,13537.93,Pending,South,Low,Silver,High,Female,48
+CUST3393,30-01-2025,4928.24,Debit,Restaurants,144084,9947.56,Not Started,South,Low,Silver,Moderate,Male,61
+CUST9328,08-07-2025,8448.85,Credit,Online Shopping,95601,23324.7,Pending,East,Medium,Platinum,High,Female,38
+CUST7686,16-08-2024,5329.24,Credit,Groceries,101931,13823.78,Not Started,South,Low,Platinum,Moderate,Male,26
+CUST7481,26-07-2024,7069.11,Debit,Healthcare,78185,7911.21,Completed,East,Low,Silver,Low,Other,53
+CUST1889,02-02-2025,5969.95,Credit,Groceries,150243,15344.15,Completed,South,Medium,Silver,High,Female,31
+CUST5248,07-03-2025,1659.03,Credit,Entertainment,132645,11316.95,Completed,East,Low,Silver,Low,Male,23
+CUST3773,26-09-2024,1207.81,Credit,Groceries,43410,13041.03,Completed,South,Low,Silver,Low,Female,45
+CUST7870,08-03-2025,3748.9,Credit,Travel,40660,9723.4,Completed,South,Low,Platinum,Low,Male,62
+CUST1643,29-04-2025,2711.86,Credit,Entertainment,90672,3352.35,Pending,West,High,Gold,Low,Other,50
+CUST6290,20-11-2024,886.27,Debit,Groceries,151222,21263.42,Completed,North,Low,Platinum,High,Other,53
+CUST6379,20-10-2024,9075.47,Debit,Travel,91439,10075.99,Not Started,West,Low,Gold,Low,Male,29
+CUST8395,11-02-2025,9952.35,Credit,Healthcare,67976,9100.78,Completed,South,Low,Platinum,High,Male,22
+CUST3716,01-08-2024,2454.91,Debit,Entertainment,85538,7584.06,Completed,West,Low,Gold,High,Other,61
+CUST8451,26-02-2025,8359.32,Debit,Restaurants,143022,8881.9,Completed,East,Low,Gold,Low,Female,60
+CUST7068,02-12-2024,1072.64,Credit,Restaurants,96606,11019.23,Completed,East,Low,Platinum,Low,Female,56
+CUST4786,10-07-2025,1680.09,Credit,Entertainment,141462,18737.58,Pending,East,Low,Silver,Moderate,Male,40
+CUST6598,06-06-2025,8268.57,Credit,Bills,147729,18337.67,Completed,West,Low,Platinum,Moderate,Female,25
+CUST8936,20-11-2024,9167.3,Credit,Online Shopping,52499,18912.8,Completed,North,Low,Platinum,Moderate,Female,40
+CUST7891,05-06-2025,9873.63,Debit,Restaurants,145016,23359.04,Completed,West,Low,Silver,Moderate,Female,55
+CUST4279,26-09-2024,7497.08,Debit,Restaurants,84705,21747.93,Completed,North,Low,Platinum,Moderate,Male,18
+CUST4325,07-12-2024,3214.4,Debit,Travel,108247,880.29,Completed,East,Low,Gold,Low,Male,20
+CUST4170,04-07-2025,494.48,Credit,Bills,184271,22817.65,Pending,East,Low,Gold,High,Male,50
+CUST5171,03-04-2025,1665.96,Debit,Bills,79196,10970.76,Completed,North,High,Silver,High,Male,57
+CUST5538,15-11-2024,6314.86,Debit,Groceries,33254,15371.41,Completed,West,Medium,Platinum,Low,Other,59
+CUST8710,10-11-2024,2991.63,Debit,Groceries,189392,26186.44,Completed,East,High,Platinum,Moderate,Male,63
+CUST6414,16-09-2024,1175.58,Credit,Bills,94495,22055.64,Completed,North,Low,Platinum,Low,Female,29
+CUST1309,21-07-2024,1508.43,Credit,Restaurants,116477,16423.66,Pending,North,Medium,Platinum,Low,Male,37
+CUST7478,10-03-2025,8067.26,Credit,Healthcare,181658,24488.11,Completed,North,Low,Platinum,Moderate,Male,45
+CUST5587,28-04-2025,697.31,Credit,Groceries,32997,2411.56,Pending,West,Low,Gold,Low,Other,36
+CUST2781,29-10-2024,5137.33,Debit,Online Shopping,32058,22689.31,Completed,South,Low,Platinum,High,Other,59
+CUST5807,10-12-2024,503.12,Credit,Online Shopping,42537,24188.69,Completed,East,Medium,Gold,Moderate,Other,28
+CUST4874,24-07-2024,6440.42,Debit,Groceries,108858,23493,Completed,North,Low,Gold,High,Female,56
+CUST9594,21-06-2025,6220.81,Debit,Online Shopping,155285,20395.78,Completed,East,Low,Silver,Moderate,Other,60
+CUST2458,10-05-2025,6697.02,Credit,Online Shopping,198779,1480.52,Completed,North,Low,Platinum,Moderate,Other,56
+CUST3291,30-12-2024,1931.74,Debit,Healthcare,171305,19939.42,Completed,West,Low,Silver,Low,Male,65
+CUST7696,08-10-2024,4771.72,Debit,Online Shopping,147345,7826.12,Not Started,South,Medium,Silver,Moderate,Female,49
+CUST1548,02-04-2025,7073.2,Credit,Groceries,29918,24625.92,Completed,West,Low,Silver,Moderate,Female,36
+CUST7420,31-12-2024,3215.43,Debit,Healthcare,86491,25800.43,Completed,West,Low,Platinum,Moderate,Male,55
+CUST7404,17-02-2025,2237.04,Credit,Online Shopping,163017,527.37,Completed,North,Low,Platinum,High,Female,34
+CUST9951,22-06-2025,4173.13,Credit,Groceries,135884,18472.61,Completed,South,Low,Platinum,Low,Female,68
+CUST6269,09-09-2024,2948.24,Credit,Healthcare,198722,824.8,Completed,West,Low,Gold,Moderate,Male,50
+CUST1022,21-08-2024,7970.2,Debit,Travel,101982,3602.61,Completed,East,Low,Silver,Moderate,Other,19
+CUST1032,06-04-2025,9222.08,Credit,Restaurants,61596,19553.86,Pending,West,Low,Gold,Moderate,Male,58
+CUST3494,24-03-2025,7070.17,Debit,Healthcare,74801,11265.99,Completed,South,Low,Gold,Moderate,Male,29
+CUST8290,15-05-2025,1308.73,Credit,Travel,155594,4372.29,Completed,West,Low,Gold,Moderate,Male,53
+CUST5340,09-09-2024,525.61,Debit,Online Shopping,52303,11926.37,Not Started,East,Medium,Silver,Low,Other,47
+CUST7703,27-09-2024,4392.59,Debit,Travel,156025,4574.61,Pending,South,Low,Gold,Low,Male,62
+CUST4123,02-07-2025,1257.34,Debit,Bills,185906,29201.13,Completed,West,Low,Gold,Moderate,Male,47
+CUST2885,25-03-2025,7696.72,Credit,Travel,131714,26610.85,Pending,North,Low,Platinum,High,Other,60
+CUST2955,17-05-2025,9080.56,Credit,Bills,139901,11645.89,Completed,East,Low,Platinum,Low,Male,19
+CUST2306,31-03-2025,8235.36,Credit,Travel,197477,892.9,Completed,North,Low,Platinum,Moderate,Female,46
+CUST8579,07-08-2024,6263.59,Debit,Restaurants,99651,27872.65,Completed,West,Low,Silver,High,Male,45
+CUST7860,16-01-2025,8123.83,Debit,Online Shopping,63652,23108.93,Completed,East,Medium,Platinum,Low,Other,30
+CUST2940,27-09-2024,4510.46,Debit,Bills,35048,26783.84,Pending,North,Low,Silver,Low,Female,38
+CUST5206,05-06-2025,2882.71,Debit,Online Shopping,109905,21979.79,Pending,East,Low,Gold,Moderate,Female,62
+CUST8507,13-07-2025,2263.12,Credit,Groceries,96218,4521.23,Not Started,South,Medium,Platinum,Low,Male,28
+CUST8673,23-03-2025,2164.77,Debit,Online Shopping,171606,18127.99,Completed,East,High,Silver,Moderate,Female,60
+CUST5251,09-01-2025,807.43,Credit,Online Shopping,90243,11267.74,Completed,West,High,Gold,Low,Female,49
+CUST8135,17-04-2025,8739.54,Debit,Online Shopping,102516,29302.64,Completed,North,Low,Silver,Moderate,Female,63
+CUST6527,06-11-2024,4088.61,Credit,Restaurants,168119,18903.03,Pending,South,Low,Gold,Moderate,Male,44
+CUST4838,30-04-2025,9149.82,Debit,Online Shopping,138237,21393.46,Completed,North,Low,Platinum,Moderate,Female,46
+CUST6656,29-01-2025,8382.65,Credit,Groceries,124480,3306.28,Completed,North,Low,Gold,Low,Male,44
+CUST7531,29-12-2024,6168.3,Debit,Groceries,85756,6008.21,Completed,North,Low,Platinum,Moderate,Other,46
+CUST5706,19-02-2025,6218.36,Credit,Groceries,74316,29229.4,Completed,West,Low,Silver,Low,Other,60
+CUST2783,24-04-2025,9209.61,Credit,Travel,182427,20317.1,Pending,South,Medium,Platinum,High,Female,19
+CUST8329,29-09-2024,6761.3,Debit,Groceries,73352,9325.15,Completed,South,Low,Silver,Low,Other,40
+CUST8833,02-01-2025,405.29,Credit,Online Shopping,172828,5187.45,Completed,West,Medium,Gold,Moderate,Other,37
+CUST5366,08-10-2024,3674.2,Debit,Travel,115956,5343.26,Completed,South,Medium,Platinum,Moderate,Other,69
+CUST8336,26-09-2024,9055.74,Credit,Healthcare,74324,14975.16,Pending,East,Low,Platinum,High,Other,50
+CUST9198,20-12-2024,934.07,Debit,Entertainment,45052,17287.18,Completed,West,Low,Silver,Moderate,Female,50
+CUST1513,09-07-2025,5560.99,Debit,Groceries,199236,15888.32,Pending,North,Low,Platinum,Low,Female,60
+CUST3847,10-01-2025,6782.75,Credit,Restaurants,102587,2622.72,Pending,East,Low,Platinum,Moderate,Other,33
+CUST9895,10-07-2025,1680.76,Debit,Online Shopping,43299,4137,Completed,South,Low,Platinum,Low,Male,28
+CUST8866,26-06-2025,6739.53,Debit,Healthcare,68526,14285.66,Completed,East,Medium,Gold,Moderate,Male,69
+CUST6885,13-09-2024,7137.35,Credit,Bills,58114,18866.73,Pending,North,Low,Gold,Moderate,Female,26
+CUST5974,05-08-2024,7741.75,Credit,Online Shopping,68766,26112.53,Completed,South,Low,Platinum,Moderate,Male,32
+CUST1088,27-05-2025,2704.89,Debit,Groceries,136463,2670.17,Pending,West,Medium,Gold,Moderate,Male,35
+CUST2110,10-05-2025,9674.31,Debit,Bills,99531,19622.99,Completed,South,High,Platinum,Moderate,Other,57
+CUST4248,08-02-2025,1247.45,Debit,Healthcare,82928,5565.74,Completed,East,Low,Silver,Low,Other,35
+CUST4258,19-09-2024,9366.77,Credit,Entertainment,30049,8760.04,Completed,North,Low,Silver,Moderate,Female,59
+CUST3664,08-07-2025,1162.36,Credit,Bills,112599,17075.77,Completed,North,Low,Gold,Moderate,Female,28
+CUST7669,21-02-2025,1908.78,Debit,Healthcare,85997,26280.38,Not Started,East,Low,Platinum,Low,Other,27
+CUST2290,05-01-2025,1937.97,Debit,Bills,27818,2921.61,Completed,West,Low,Gold,Moderate,Female,50
+CUST5262,10-01-2025,1657.56,Credit,Travel,46349,13200,Completed,South,Medium,Silver,Moderate,Other,54
+CUST6415,05-09-2024,8003.41,Credit,Groceries,177061,27271.87,Pending,East,Low,Gold,Moderate,Male,65
+CUST2109,02-11-2024,3291.06,Debit,Healthcare,120266,20337.94,Not Started,South,Low,Gold,High,Other,63
+CUST7367,13-11-2024,2420.58,Credit,Groceries,59460,3526.41,Completed,East,Low,Gold,Low,Female,67
+CUST8701,31-05-2025,8061.11,Debit,Bills,169941,25000.78,Not Started,North,Low,Gold,High,Female,40
+CUST1220,08-12-2024,2998.4,Credit,Restaurants,143353,29752.06,Completed,South,Medium,Platinum,Low,Male,43
+CUST1304,03-09-2024,281.5,Debit,Entertainment,190822,13348.03,Pending,East,Low,Silver,Low,Male,22
+CUST8943,14-05-2025,9972.22,Debit,Online Shopping,180671,15710.6,Completed,West,Low,Silver,High,Female,56
+CUST8812,11-03-2025,6925.63,Debit,Entertainment,25058,17948.28,Pending,West,Low,Silver,Moderate,Male,50
+CUST6517,31-01-2025,8178.38,Credit,Online Shopping,127288,16933.28,Completed,West,Medium,Silver,Low,Male,37
+CUST6684,10-07-2025,5106.58,Debit,Restaurants,127264,7492.67,Pending,West,Low,Gold,High,Male,67
+CUST4034,27-06-2025,8600.99,Debit,Online Shopping,147444,9960.51,Completed,West,Low,Silver,High,Male,32
+CUST4391,15-12-2024,3156.81,Credit,Bills,130617,20190.85,Completed,East,Low,Platinum,Moderate,Female,19
+CUST3773,25-04-2025,4059.72,Debit,Restaurants,34888,7270.15,Completed,West,Low,Gold,Moderate,Female,61
+CUST2697,09-02-2025,6965.97,Debit,Travel,149687,1843.73,Completed,South,Low,Gold,High,Other,40
+CUST9686,19-08-2024,7010.22,Credit,Bills,91647,21431.9,Pending,South,Low,Silver,Moderate,Other,27
+CUST5590,27-07-2024,151.94,Credit,Restaurants,78920,9839.6,Completed,East,Medium,Platinum,Low,Other,52
+CUST3569,27-06-2025,8834.12,Debit,Entertainment,67663,29770.76,Completed,East,Low,Gold,Moderate,Male,50
+CUST5101,24-01-2025,277.45,Credit,Entertainment,104064,11313.36,Completed,North,Low,Platinum,Moderate,Male,63
+CUST5256,25-12-2024,915.77,Credit,Restaurants,93440,15475.84,Pending,South,Low,Silver,High,Male,55
+CUST3081,15-06-2025,8314.75,Credit,Bills,76270,21259.81,Completed,West,Medium,Silver,Moderate,Other,52
+CUST6799,18-09-2024,9742.71,Credit,Entertainment,77379,7682.87,Completed,South,Low,Gold,Low,Female,66
+CUST9101,09-05-2025,2357.75,Debit,Bills,65834,23312,Completed,North,Low,Platinum,Moderate,Other,62
+CUST2477,19-10-2024,2164.57,Credit,Online Shopping,51187,17982.88,Completed,South,Low,Platinum,Moderate,Male,53
+CUST6659,19-06-2025,9195.45,Credit,Entertainment,40812,8052.83,Completed,East,Low,Platinum,High,Male,26
+CUST8573,28-01-2025,822.93,Credit,Travel,184503,15821.32,Completed,West,Low,Silver,Low,Female,59
+CUST7544,26-06-2025,9921.91,Credit,Travel,194281,9722.63,Pending,East,Low,Silver,Moderate,Female,18
+CUST5020,18-07-2025,2801.53,Debit,Healthcare,152673,10405.23,Completed,West,Low,Silver,Moderate,Other,40
+CUST2429,26-12-2024,3908.9,Credit,Restaurants,72261,10044.71,Completed,South,Low,Gold,Moderate,Female,23
+CUST6934,10-09-2024,3953.65,Credit,Bills,153459,15211.4,Pending,West,Low,Gold,Low,Female,33
+CUST6387,27-05-2025,3770.33,Debit,Healthcare,71937,18009.17,Not Started,West,Low,Platinum,Moderate,Other,42
+CUST3480,03-04-2025,1064.64,Debit,Groceries,186715,5824.71,Completed,West,Low,Silver,Low,Female,29
+CUST5425,07-11-2024,7683.61,Credit,Restaurants,29737,29280.84,Completed,North,Low,Gold,Moderate,Other,63
+CUST5361,22-07-2024,4918.89,Debit,Travel,94559,23567.88,Not Started,West,Low,Gold,Moderate,Other,22
+CUST9885,19-04-2025,3955.05,Credit,Groceries,182964,2438.75,Pending,West,Low,Gold,Moderate,Male,69
+CUST1084,01-11-2024,4015.89,Debit,Bills,154325,18140.35,Pending,South,Low,Silver,High,Other,29
+CUST9490,03-01-2025,958.79,Credit,Healthcare,87484,25756.2,Completed,North,Low,Silver,Moderate,Female,60
+CUST6949,26-12-2024,9205.69,Credit,Restaurants,103593,21593.33,Pending,East,Medium,Platinum,Moderate,Male,22
+CUST9480,10-06-2025,1442.8,Debit,Groceries,89921,29795.08,Completed,North,Low,Platinum,Moderate,Female,28
+CUST6117,28-07-2024,7771.89,Debit,Groceries,124361,7285.54,Completed,South,Low,Silver,High,Female,55
+CUST2748,19-07-2024,4884.42,Credit,Entertainment,182331,26488.36,Completed,North,High,Gold,Low,Other,53
+CUST7732,22-04-2025,1974.5,Credit,Restaurants,171592,22971.52,Pending,East,Low,Platinum,Low,Other,43
+CUST3011,12-05-2025,9831.34,Credit,Entertainment,31611,17011.65,Completed,North,Low,Silver,Low,Male,34
+CUST4420,04-12-2024,1224.98,Debit,Bills,184629,24492.74,Pending,North,Low,Platinum,Moderate,Female,21
+CUST6881,12-12-2024,5296.45,Credit,Restaurants,129672,23247.83,Completed,East,Low,Gold,Moderate,Male,59
+CUST5804,04-07-2025,9608.46,Credit,Online Shopping,133080,3004.51,Completed,North,Medium,Silver,Low,Female,41
+CUST7674,21-05-2025,5047.25,Credit,Travel,143912,23330.48,Not Started,East,Low,Gold,High,Female,33
